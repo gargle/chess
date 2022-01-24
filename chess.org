@@ -11,5 +11,6 @@
  ... Rg3+
  Kf1 Rg1# (Kf1 Qg1#) (Kh1 Qg1#) (Kh2 Qg1#)
 * [[https://lichess.org/training/L9xtk][https://lichess.org/training/L9xtk]]
+ get the root at g4
  Qxe6+ Kb8
  Qxg4
