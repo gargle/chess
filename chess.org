@@ -2,4 +2,14 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
-*
+* [[https://lichess.org/training/cTN9D][https://lichess.org/training/cTN9D]]
+ Queen can attack Knight rook
+ ... Bxe5
+ Nxe5 Qd4
+* [[https://lichess.org/training/LlXfB][https://lichess.org/training/LlXfB]]
+ checkmate the king
+ ... Rg3+
+ Kf1 Rg1# (Kf1 Qg1#) (Kh1 Qg1#) (Kh2 Qg1#)
+* [[https://lichess.org/training/L9xtk][https://lichess.org/training/L9xtk]]
+ Qxe6+ Kb8
+ Qxg4
