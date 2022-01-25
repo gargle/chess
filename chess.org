@@ -2,15 +2,46 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
-* [[https://lichess.org/training/cTN9D][https://lichess.org/training/cTN9D]]
- Queen can attack Knight rook
- ... Bxe5
- Nxe5 Qd4
-* [[https://lichess.org/training/LlXfB][https://lichess.org/training/LlXfB]]
- checkmate the king
- ... Rg3+
- Kf1 Rg1# (Kf1 Qg1#) (Kh1 Qg1#) (Kh2 Qg1#)
-* [[https://lichess.org/training/L9xtk][https://lichess.org/training/L9xtk]]
- get the root at g4
- Qxe6+ Kb8
- Qxg4
+
+* theory
+** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
+
+* puzzles
+** [[https://lichess.org/training/cTN9D]]
+   Queen can attack Knight Rook
+   ... Bxe5
+   Nxe5 Qd4
+** [[https://lichess.org/training/LlXfB]]
+   checkmate the King
+   ... Rg3+
+   Kf1 Rg1# (Kf1 Qg1#) (Kh1 Qg1#) (Kh2 Qg1
+** [[https://lichess.org/training/L9xtk]]
+   get the Root at g4
+   Qxe6+ Kb8
+   Qxg4
+** [[https://lichess.org/training/Prait]]
+   attack the Queen, Bd6
+   Queen has to take Bd6 because otherwise the Bishop would attack the King, any other white move and Bxe5
+   ...  Bd6
+   Qxd6 Rxd6
+** [[https://lichess.org/training/QfoSo]]
+   attack Bishop Be7
+   ... Qd1+
+   Kh2 Qd6+
+   g3  Qxe7
+** [[https://lichess.org/training/tPtnS]]
+   attach Rook Rh1
+   ... Rd1+
+   Ke2 Rxh1
+** [[https://lichess.org/training/8vC5j]]
+   Rook Rd8 most valuable
+   ... Rd2+
+   Kc3 Rxd8
+** [[https://lichess.org/training/qJStx]]
+   Rook Ra8 most valuable
+   ... Qxb7
+   e6  Qxa8
+** [[https://lichess.org/training/qCYlB]]
+   King in check, attach Rook
+   ... Qxe6
+   Kh8 Qxc8+
