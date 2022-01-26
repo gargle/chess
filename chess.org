@@ -55,3 +55,8 @@
    Nd6+ Kf8
    Rg8+ Ke7
    Re8#
+
+** [[https://lichess.org/training/pP4wW]]
+   Rook blocks attack on King, discovered attack on King by Qb6
+   ... Re5
+   Kf1 Rxf5
