@@ -45,3 +45,13 @@
    King in check, attach Rook
    ... Qxe6
    Kh8 Qxc8+
+
+** [[https://lichess.org/training/kmTSk]]
+   King in check first, attack Rook Rd8
+   Rxg7+ Qxg7
+   Qxd8+
+** [[https://lichess.org/training/FqjWL]]
+   King in check, attack Bishop Be4
+   Nd6+ Kf8
+   Rg8+ Ke7
+   Re8#
