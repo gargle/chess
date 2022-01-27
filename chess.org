@@ -55,3 +55,18 @@
    Nd6+ Kf8
    Rg8+ Ke7
    Re8#
+** [[https://lichess.org/training/z0MZ2]]
+   King in check with Queen, Knight sacrified, Bishop gained
+   ...  Qh4+
+   g3   Nxg3
+   Bxg3 Qxg3+
+** [[https://lichess.org/training/BBCtc]]
+   King in check with Rg4
+   Rg4+  Kf8
+   Rb8   Qe8
+   Rxe8+
+
+** [[https://lichess.org/training/zRb5D]]
+   not g3, because Ke3 will travel to Kf2 and takes promoted g1
+   ... gxh5
+   f5  Kd5
