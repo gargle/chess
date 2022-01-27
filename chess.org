@@ -2,7 +2,6 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
-
 * theory
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
 
@@ -70,3 +69,7 @@
    not g3, because Ke3 will travel to Kf2 and takes promoted g1
    ... gxh5
    f5  Kd5
+** [[https://lichess.org/training/pP4wW]]
+   Rook blocks attack on King, discovered attack on King by Qb6
+   ... Re5
+   Kf1 Rxf5
