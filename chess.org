@@ -5,6 +5,7 @@
 * theory
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
 
+
 * puzzles
 ** [[https://lichess.org/training/cTN9D]]
    Queen can attack Knight Rook
@@ -73,6 +74,7 @@
    Rook blocks attack on King, discovered attack on King by Qb6
    ... Re5
    Kf1 Rxf5
+
 
 * games
 ** [[https://lichess.org/ET9gRysx]]
