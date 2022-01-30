@@ -20,6 +20,43 @@
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
 
 
+* study
+** [[https://lichess.org/study/DAmLK0ug][Queen's Gambit]]
+   1.  d4 d5
+   2.  c4
+***    ...  dxc4 (Queens Gambit Accepted)
+   3.  Nf3       (to prevent ... e5)
+       ...  Nf6
+   4.  e3        (so that our Bishop f1 can take back c4)
+****   ...  b5   (to greedy, should have played e6)
+   5.  a4        (because it is covered by our Queen)
+       ...  c6
+   6.  axb5 cxb5
+   7.  b3        (black behind in development, white has center, destroys black's queenside, may attack the King)
+****   ...  e6
+   5.  Bc4  c5   (black will try to take on d4 at some point)
+   6.  O-O  a6   (black wants to go ... b5 and ... Bb7)
+   7.  a4        (attack b5, coverted by our Queen)
+       ...  Nc6
+   8.  Qe2  cxd4
+   9.  Rd1       (pawn d4 pinned to the black Queen)
+       ...  Be7
+   10. exd4 O-O
+   11. Nc3
+***    ...  e6   (Queens Gambit declined)
+   3.  Nc3  Nf6
+   4.  cxd5 exd5
+   5.  Bg5       (pin black's Kf6 against black Queen)
+       ...  Be7
+   6.  e3        (to bring our Bf1 in the game)
+       ...  c6   (Carlsbad Pawn Structure)
+   7.  Bd3  Nbd7
+   8.  Qc2       (put pressure on h7)
+       ...  O-O
+   9.  O-O       (King side caste is better, but it's not explained)
+      *** TO BE CONTINUED ***
+***    ...  c6   (Slav and Semi-Slav Defenses)
+
 * puzzles
 ** [[https://lichess.org/training/cTN9D]]
    Queen can attack Knight Rook
