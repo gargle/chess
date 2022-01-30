@@ -2,6 +2,20 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
+* lichess
+** game
+*** numbers (a+b)
+    a (in minutes) is the time you have for thinking and playing your moves in the whole game
+    b (in seconds) is the number of time that is added everytime you play a move
+    total time for game = a+b*(number of moves)
+*** types
+    https://en.wikipedia.org/wiki/Fast_chess
+    https://lichess.org/faq#time-controls
+    bullet      one or two minutes per side
+    blitz       less than 10 minutes per side (often 5 minutes)
+    rapid       10-60 minutes per side (often 30 minutes)
+    classical   may allow two hours per player for the first forty moves, then an additional hour per player
+
 * theory
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
 
