@@ -18,7 +18,20 @@
 
 * theory
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
+** [[https://learn.chessbase.com/en/page/the-value-of-the-pieces-in-chess]]
 
+   | piece  | value |
+   |--------+-------|
+   | Queen  |   9   |
+   | Rook   |   5   |
+   | Bishop |   3   |
+   | Knight |   3   |
+   | Pawn   |   1   |
+
+   Two bishops coordinate very well as the bishop pair because they can operate on all the squares on the board In
+   an open position (one with few blocked pawns) the bishop pair is stronger thana bishop and a knight. So the
+   bishop is worth a tad more than the knight. In a closed position in which the bishops are restricted by blocked
+   pawn chains the knight, on the other hand, is more mobile.
 
 * study
 ** [[https://lichess.org/study/DAmLK0ug][Queen's Gambit]]
