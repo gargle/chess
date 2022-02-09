@@ -33,6 +33,10 @@
    bishop is worth a tad more than the knight. In a closed position in which the bishops are restricted by blocked
    pawn chains the knight, on the other hand, is more mobile.
 
+** pawn chains
+   attack a pawn chain at its base!
+   black d5, e6, f7 is a pawn chain, d5 is its base
+   white d4, e5 is a pawn chain, d4 is its base; b2, c3, d4, e5 is a strong white pawn chain
 * study
 ** [[https://lichess.org/study/DAmLK0ug][Queen's Gambit]]
    1.  d4 d5
@@ -139,6 +143,7 @@
    ... Re5
    Kf1 Rxf5
 
+** STARTED [[https://lichess.org/training/wDGzM]]
 
 * games
 ** [[https://lichess.org/ET9gRysx]]
