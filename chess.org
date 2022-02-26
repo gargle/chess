@@ -146,7 +146,8 @@
 ** STARTED [[https://lichess.org/training/wDGzM]]
 
 * games
-** [[https://lichess.org/ET9gRysx]]
+** casual
+*** [[https://lichess.org/ET9gRysx]]
     1. e4 { [%eval 0.25] } 1... e6 { [%eval 0.29] }
     2. d4 { [%eval 0.24] } 2... d5 { [%eval 0.25] } { C00 French Defense }
     3. Bb5+ { [%eval -0.16] } 3... Nc6 { [%eval 0.33] }
@@ -164,6 +165,21 @@
        #2] } (12... Ba6 13. Qe2 e3 14. Nd1 Nd5 15. b3 f5 16. Ndxe3 Nxe3 17. Qxe3 Bxc4 18. bxc4 Rfe8 19. Qc5)
    13. Qxd8+ { [%eval #1] } 13... Ne8 { [%eval #1] }
    14. Qxe8# { White wins by checkmate. } 1-0
+** rapid
+*** https://lichess.org/gArN6aQc, first victory against stockfish level 3
+    1. e4 e5 2. Nc3 Nf6 { C26 Vienna Game: Falkbeer Variation } 3. Bd3 Nc6 4. Nf3 d5?! { (-0.21 → 0.33)
+    Inaccuracy. Bc5 was best. } (4... Bc5 5. O-O O-O 6. h3 Re8 7. Re1 Nd4 8. Nxd4 Bxd4 9. Bc4) 5. Nxd5
+    Nxd5 6. exd5 Na5?? { (-0.10 → 2.81) Blunder. Qxd5 was best. } (6... Qxd5 7. Qe2 f6 8. c3 Bg4 9. Be4 Qd7 10. h3
+    Bf5 11. Bxf5) 7. Nxe5 Qg5?? { (2.67 → 7.09) Blunder. Qxd5 was best. } (7... Qxd5 8. O-O) 8. Qe2 c6 9. b4
+    f6 10. Nf3+ Be7 11. Nxg5 fxg5 12. bxa5 Kf7 13. Bb2 Kf8 14. dxc6 Rg8?! { (17.23 → Mate in 33) Checkmate is now
+    unavoidable. Bf6 was best. } (14... Bf6 15. Qf3 b5 16. Bxf6 g4 17. Qe4 gxf6 18. c7 Kf7 19. Qxa8 a6 20. O-O-O
+    Rf8 21. f3) 15. cxb7?! { (Mate in 33 → 18.46) Lost forced checkmate sequence. Qf3+ was best. } (15. Qf3+)
+    15... Bxb7 16. a6 Bd5 17. Bxh7 Bb4 18. Bxg8 Kxg8 19. h4 Rf8 20. hxg5 Rf7 21. c3 Bc5 22. a4 Bxg2 23. Rg1
+    Be4 24. Qxe4 Bb6?! { (21.02 → Mate in 6) Checkmate is now unavoidable. Re7 was best. }
+    (24... Re7 25. Qxe7) 25. a5 Bc5 26. Ba3 Re7 27. Qxe7 Bxf2+ 28. Kxf2 Kh7 29. Qxa7 Kg6 30. Qe7 Kh7 31. a7
+    Kg8 32. a8=Q+ Kh7 33. g6+ Kh6 34. Rh1+ Kxg6 35. Rag1+ Kf5 36. Qee4+ Kf6 37. Qae8 g5 38. Rxg5 Kxg5 39. Re1
+    Kf6 40. Qd5 Kg7 41. Qg5+ Kh7 42. Rh1# { White wins by checkmate. } 1-0
+
 ** blitz
 *** https://lichess.org/izIEuMyn, first victory against a real person
     1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 { C42 Russian Game } 4. Bb5+?? { (0.37 → -3.66) Blunder. Nf3 was best. }
