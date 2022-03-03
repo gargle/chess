@@ -33,6 +33,19 @@
    bishop is worth a tad more than the knight. In a closed position in which the bishops are restricted by blocked
    pawn chains the knight, on the other hand, is more mobile.
 
+** https://chessdelta.com/11-best-chess-opening-principles-for-starters-step-by-step/
+    1. Move Center Pawns to Center Squares.
+    2. Don’t make unnecessary pawn moves.
+    3. Move the Kingside Pieces first.
+    4. Then move Queenside Pieces.
+    5. Don’t bring out the major pieces early!
+    6. Develop knights before bishops.
+    7. Don’t repeat the moves!
+    8. Castle within the first 5-10 moves.
+    9. Attach your Rooks.
+   10. Protect your castled position.
+   11. When attacked-Use your Mind.
+
 ** pawn chains
    attack a pawn chain at its base!
    black d5, e6, f7 is a pawn chain, d5 is its base
@@ -146,6 +159,30 @@
 ** STARTED [[https://lichess.org/training/wDGzM]]
 
 * games
+** kobo
+*** Coach-5 https://lichess.org/zPceg6xZ
+    I was black, 1 inaccuracy, no mistakes, no blunders
+    1. d4 d6 \
+    2. Nf3 e5?! { (0.55 → 1.22) Inaccuracy. f5 was best. } { A04 Zukertort Opening: Vos Gambit } (2... f5 3. Nc3
+       Nf6 4. Bg5 d5 5. Rc1 e6 6. e3 Be7 7. Bxf6)
+    3. Nxe5?? { (1.22 → -3.66) Blunder. dxe5 was best. } (3. dxe5 Nc6 4. Bg5 Be7 5. Bxe7 Ngxe7 6. exd6 cxd6 7. Nc3
+       Qb6) 3... dxe5
+    4. d5 c6
+    5. Nc3 Bb4
+    6. d6 Nf6
+    7. d7+ Nfxd7
+    8. e4 Na6
+    9. Qxd7+ Bxd7
+   10. Bxa6 bxa6
+   11. O-O O-O
+   12. Ne2 a5
+   13. Be3 a4
+   14. Rad1 a5
+   15. Rd3 a3
+   16. b3 Bg4
+   17. Rxd8 Raxd8
+   18. Rd1? { (-8.47 → Mate in 1) Checkmate is now unavoidable. Nc1 was best. } (18. Nc1 Bc8) 18... Rxd1# { Black
+       wins by checkmate. } 0-1
 ** casual
 *** [[https://lichess.org/ET9gRysx]]
     1. e4 { [%eval 0.25] } 1... e6 { [%eval 0.29] }
