@@ -17,6 +17,7 @@
     classical   may allow two hours per player for the first forty moves, then an additional hour per player
 
 * theory
+** https://www.youtube.com/results?search_query=chessbrah+building+habbits
 ** [[https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/]]
 ** [[https://learn.chessbase.com/en/page/the-value-of-the-pieces-in-chess]]
 
