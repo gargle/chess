@@ -51,6 +51,7 @@
    attack a pawn chain at its base!
    black d5, e6, f7 is a pawn chain, d5 is its base
    white d4, e5 is a pawn chain, d4 is its base; b2, c3, d4, e5 is a strong white pawn chain
+** http://www.openchessbooks.org/
 * study
 ** [[https://lichess.org/study/DAmLK0ug][Queen's Gambit]]
    1.  d4 d5
