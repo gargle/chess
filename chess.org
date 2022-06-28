@@ -127,3 +127,12 @@
 **** https://lichess.org/editor/2r1r1k1/p4ppp/bnBq4/3P3n/3P3P/1P3P2/P1PKN3/R1BQR3_b_-_-_0_1
 1... Rxc6 2. dxc6 Bxe2 3. Rxe2 Qxd4+ 4. Ke1 Qg1+ 5. Kd2 Rd8+ 6. Kc3
      Qc5+ 7. Kb2 Na4+! White resigns
+**** Black Provokes a Knight-Hunt, pag. 45, https://lichess.org/CkikHpfr
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O
+   Nf6 8. Ba3 Bb6 9. Qb3 d5 10. exd5 Na5 11. Re1+ Be6 12. dxe6
+   Nxb3 13. exf7+ Kd7 14. Be6+ Kc6 15. Ne5+ Kb5 16. Bc4+ Ka5 17. Bb4+
+   Ka4 18. axb3#
+**** White Neglects Castling, pag. 45, https://lichess.org/0DxJpOfz
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Bb6 5. d4 Qe7 6. d5 Nd8 7. Be2
+   d6 8. h3 f5 9. Bg5 Nf6 10. Nbd2 O-O 11. Nh4 fxe4 12. Nxe4
+   Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3#
