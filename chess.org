@@ -2,6 +2,10 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
+* puzzles
+** https://lichess.org/training/3La0T
+Block black from reaching rank 1.  As black can take ...xa3 we need to move a3 out of the way first.  1. a4
+g4 2. h4 success
 * lichess
 ** game
 *** numbers (a+b)
