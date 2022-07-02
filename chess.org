@@ -6,6 +6,9 @@
 ** https://lichess.org/training/3La0T
 Block black from reaching rank 1.  As black can take ...xa3 we need to move a3 out of the way first.  1. a4
 g4 2. h4 success
+** https://lichess.org/training/K0NBg
+Give up our queen and rook.  Black will take the queen with the knight at d7; c8 and d7 will be covered by our
+bisscheop at h3.  We take the black rook at f8 with our pawn at g8.
 * lichess
 ** game
 *** numbers (a+b)
