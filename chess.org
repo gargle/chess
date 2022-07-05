@@ -15,6 +15,23 @@ Give up our rook when we attack the black king.  We take the black
 knight with our queen.  Next we attack the black king with our
 bisshop.  Bh7 and the black king will take it.  We capture the black
 queen.  Qxf8 success
+* chess.com
+** nelson
+*** https://www.chess.com/analysis/game/computer/14435221?tab=review
+1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3
+   Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4 Nf4 11. g3
+   Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4
+   Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4 Bb6 20. c5 Bxc5 21. bxc5
+   b6 22. Re1+ Kf8 23. Bg5 Rd5 24. c6 f6 25. Bh4 Kf7 26. Re3
+   Re8 27. Rxe8 Kxe8 28. g4 Nb3 29. Bg3 Nxd4 30. Nxd4 Rxd4+ 31. Kc1
+   Rxg4 32. f3 Ra4 33. Kb2 Rc4 34. Be1 Rxc6 35. Bf2 Re6 36. Kc1
+   f5 37. f4 Re4 38. Bg3 Ra4 39. Kd2 Rxa3 40. Ke2 Ra2+ 41. Kf3
+   b5 42. Bf2 b4 43. Bd4 b3 44. h3 Rh2 45. Bxg7 Rxh3+ 46. Kg2 Rd3 47.
+   Be5 Rd2+ 48. Kf3 b2 49. Bxb2 Rxb2 50. Ke3 a5 51. Kd3 a4 52. Kc3
+   Rh2 53. Kb4 h5 54. Ka3 Rh3+ 55. Kxa4 Rf3 56. Kb4 Rxf4+ 57. Kb5
+   h4 58. Ka5 h3 59. Kb5 h2 60. Kc6 h1=Q+ 61. Kxc7 Rd4 62. Kb6
+   Qc1 63. Kb7 Rb4+ 64. Ka7 Qa1# 0-1
+
 * lichess
 ** game
 *** numbers (a+b)
