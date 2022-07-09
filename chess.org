@@ -4,33 +4,28 @@
 
 * puzzles
 ** https://lichess.org/training/3La0T
-Block black from reaching rank 1.  As black can take ...xa3 we need to
-move a3 out of the way first.  1. a4 g4 2. h4 success
+Block black from reaching rank 1.  As black can take ...xa3 we need to move a3 out of the way first.  1. a4
+g4 2. h4 success
 ** https://lichess.org/training/K0NBg
-Give up our queen and rook.  Black will take the queen with the knight
-at d7; c8 and d7 will be covered by our bisscheop at h3.  We take the
-black rook at f8 with our pawn at g8.  gxf8=Q# success
+Give up our queen and rook.  Black will take the queen with the knight at d7; c8 and d7 will be covered by our
+bisscheop at h3.  We take the black rook at f8 with our pawn at g8.  gxf8=Q# success
 ** https://lichess.org/training/cgzRP
-Give up our rook when we attack the black king.  We take the black
-knight with our queen.  Next we attack the black king with our
-bisshop.  Bh7 and the black king will take it.  We capture the black
-queen.  Qxf8 success
+Give up our rook when we attack the black king.  We take the black knight with our queen.  Next we attack the
+black king with our bisshop.  Bh7 and the black king will take it.  We capture the black queen.  Qxf8 success
+** https://lichess.org/training/7WtZ8
+Attack the white queen with black bishop, Ba6.  To save its queen white can only Qxa6, and we take it by Kxa6.
+
 * chess.com
 ** nelson
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
-1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3
-   Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4 Nf4 11. g3
-   Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4
-   Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4 Bb6 20. c5 Bxc5 21. bxc5
-   b6 22. Re1+ Kf8 23. Bg5 Rd5 24. c6 f6 25. Bh4 Kf7 26. Re3
-   Re8 27. Rxe8 Kxe8 28. g4 Nb3 29. Bg3 Nxd4 30. Nxd4 Rxd4+ 31. Kc1
-   Rxg4 32. f3 Ra4 33. Kb2 Rc4 34. Be1 Rxc6 35. Bf2 Re6 36. Kc1
-   f5 37. f4 Re4 38. Bg3 Ra4 39. Kd2 Rxa3 40. Ke2 Ra2+ 41. Kf3
-   b5 42. Bf2 b4 43. Bd4 b3 44. h3 Rh2 45. Bxg7 Rxh3+ 46. Kg2 Rd3 47.
-   Be5 Rd2+ 48. Kf3 b2 49. Bxb2 Rxb2 50. Ke3 a5 51. Kd3 a4 52. Kc3
-   Rh2 53. Kb4 h5 54. Ka3 Rh3+ 55. Kxa4 Rf3 56. Kb4 Rxf4+ 57. Kb5
-   h4 58. Ka5 h3 59. Kb5 h2 60. Kc6 h1=Q+ 61. Kxc7 Rd4 62. Kb6
-   Qc1 63. Kb7 Rb4+ 64. Ka7 Qa1# 0-1
+1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3 Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4
+   Nf4 11. g3 Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4 Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4
+   Bb6 20. c5 Bxc5 21. bxc5 b6 22. Re1+ Kf8 23. Bg5 Rd5 24. c6 f6 25. Bh4 Kf7 26. Re3 Re8 27. Rxe8 Kxe8 28. g4
+   Nb3 29. Bg3 Nxd4 30. Nxd4 Rxd4+ 31. Kc1 Rxg4 32. f3 Ra4 33. Kb2 Rc4 34. Be1 Rxc6 35. Bf2 Re6 36. Kc1 f5 37. f4
+   Re4 38. Bg3 Ra4 39. Kd2 Rxa3 40. Ke2 Ra2+ 41. Kf3 b5 42. Bf2 b4 43. Bd4 b3 44. h3 Rh2 45. Bxg7 Rxh3+ 46. Kg2
+   Rd3 47.  Be5 Rd2+ 48. Kf3 b2 49. Bxb2 Rxb2 50. Ke3 a5 51. Kd3 a4 52. Kc3 Rh2 53. Kb4 h5 54. Ka3 Rh3+ 55. Kxa4
+   Rf3 56. Kb4 Rxf4+ 57. Kb5 h4 58. Ka5 h3 59. Kb5 h2 60. Kc6 h1=Q+ 61. Kxc7 Rd4 62. Kb6 Qc1 63. Kb7 Rb4+ 64. Ka7
+   Qa1# 0-1
 
 * lichess
 ** game
@@ -141,42 +136,32 @@ queen.  Qxf8 success
 **** Disastrous Pawn Moves, pag. 38, https://lichess.org/rGLXTaIs
 1. e4 e5 2. Nf3 Nc6 3. Bc4 f6 4. Nh4 g5 5. Qh5+ Ke7 6. Nf5#
 **** Poor Development, Poor Defense, pag. 39, https://lichess.org/DOcRrI9f
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6
-   bxc6 7. dxe5 Nb7 8. Nd4 Be7 9. Nf5 Bf8 10. Re1 g6 11. Nd6+
-   Bxd6 12. exd6+ Kf8 13. Bh6+ Kg8 14. Qd4 f6 15. Qc4#
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 bxc6 7. dxe5 Nb7 8. Nd4 Be7 9. Nf5 Bf8 10. Re1
+   g6 11. Nd6+ Bxd6 12. exd6+ Kf8 13. Bh6+ Kg8 14. Qd4 f6 15. Qc4#
 **** White Neglects his King’s Welfare, pag. 39, https://lichess.org/ta5REAVy
-1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. f5 Nf6 6. h3 d5 7. Nxe5
-   Nxe4 8. Nf3 Qh4+ 9. Nxh4 Bf2+ 10. Ke2 Nd4+ 11. Kd3 Nc5#
+1. e4 e5 2. Nc3 Nc6 3. f4 Bc5 4. Nf3 d6 5. f5 Nf6 6. h3 d5 7. Nxe5 Nxe4 8. Nf3 Qh4+ 9. Nxh4 Bf2+ 10. Ke2
+   Nd4+ 11. Kd3 Nc5#
 **** How to Lose in Nine Moves, pag. 40, https://lichess.org/54x6JjnK
-1. f4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. d3 e5 5. fxe5 Bb4+ 6. Bd2
-   Ne3 7. Qa4+?? b5 8. Qxb5+ Bd7 9. Qb7 Bc6
+1. f4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. d3 e5 5. fxe5 Bb4+ 6. Bd2 Ne3 7. Qa4+?? b5 8. Qxb5+ Bd7 9. Qb7 Bc6
 **** Thoughtless Development Proves Disastrous, pag. 41, https://lichess.org/Qa0beRvP
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5? 6. O-O
-   Nxb3 7. axb3 d6 8. d4 Bg4 9. dxe5 Bxf3 10. Qxf3 dxe5 11. Rd1
-   Qf6 12. Qd3 Qc6 13. Rxa6!!
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5? 6. O-O Nxb3 7. axb3 d6 8. d4 Bg4 9. dxe5 Bxf3 10. Qxf3
+   dxe5 11. Rd1 Qf6 12. Qd3 Qc6 13. Rxa6!!
 **** Good Development Trounces Poor Development, pag. 42, https://lichess.org/wKUZPa6X
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4 7. Qb3
-   Bxf3 8. Bxf7+ Kf8 9. Bxg8 Rxg8 10. gxf3 g5! 11. Qe6 Ne5! 12. Qf5+
-   Kg7! 13. Kh1 Kh8 14. Rg1 g4! 15. f4 Nf3 16. Rxg4 Qh4!! 17. Rg2
-   Qxh2+! 18. Rxh2 Rg1#!
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. c3 Bg4 7. Qb3 Bxf3 8. Bxf7+ Kf8 9. Bxg8 Rxg8 10. gxf3
+   g5! 11. Qe6 Ne5! 12. Qf5+ Kg7! 13. Kh1 Kh8 14. Rg1 g4! 15. f4 Nf3 16. Rxg4 Qh4!! 17. Rg2 Qxh2+! 18. Rxh2 Rg1#!
 **** How Exchanges May Influence Development, pag. 43, https://lichess.org/gF1uCujo
-1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nxg4 Nxe4 7. Qe2
-   d5 8. d3 Bxg4 9. Qxg4 Ng3 10. Rh3 Bd6 11. Bxf4 Qe7+ 12. Kf2
-   Bxf4 13. Qxf4 Nxf1 14. Nc3 O-O 15. Kxf1 c6 16. Re1 Qd8 17. Rg3+ Kh8
-   18 Qh6 Rg8 19. Re8!! Qxe8 20. Qf6+ Rg7 21. Qxg7#
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nxg4 Nxe4 7. Qe2 d5 8. d3 Bxg4 9. Qxg4 Ng3 10. Rh3
+   Bd6 11. Bxf4 Qe7+ 12. Kf2 Bxf4 13. Qxf4 Nxf1 14. Nc3 O-O 15. Kxf1 c6 16. Re1 Qd8 17. Rg3+ Kh8 18 Qh6
+   Rg8 19. Re8!! Qxe8 20. Qf6+ Rg7 21. Qxg7#
 *** Exposing your King to Attack, pag. 44
 **** https://lichess.org/editor/r1bqk2r/pppn1pp1/5n1p/2B5/2B1p3/2N5/PPP1Q1PP/R4RK1_w_-_-_0_1
 **** https://lichess.org/editor/2r1r1k1/p4ppp/bnBq4/3P3n/3P3P/1P3P2/P1PKN3/R1BQR3_b_-_-_0_1
-1... Rxc6 2. dxc6 Bxe2 3. Rxe2 Qxd4+ 4. Ke1 Qg1+ 5. Kd2 Rd8+ 6. Kc3
-     Qc5+ 7. Kb2 Na4+! White resigns
+1... Rxc6 2. dxc6 Bxe2 3. Rxe2 Qxd4+ 4. Ke1 Qg1+ 5. Kd2 Rd8+ 6. Kc3 Qc5+ 7. Kb2 Na4+! White resigns
 **** Black Provokes a Knight-Hunt, pag. 45, https://lichess.org/CkikHpfr
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O
-   Nf6 8. Ba3 Bb6 9. Qb3 d5 10. exd5 Na5 11. Re1+ Be6 12. dxe6
-   Nxb3 13. exf7+ Kd7 14. Be6+ Kc6 15. Ne5+ Kb5 16. Bc4+ Ka5 17. Bb4+
-   Ka4 18. axb3#
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nf6 8. Ba3 Bb6 9. Qb3 d5 10. exd5
+   Na5 11. Re1+ Be6 12. dxe6 Nxb3 13. exf7+ Kd7 14. Be6+ Kc6 15. Ne5+ Kb5 16. Bc4+ Ka5 17. Bb4+ Ka4 18. axb3#
 **** White Neglects Castling 1, pag. 45, https://lichess.org/0DxJpOfz
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Bb6 5. d4 Qe7 6. d5 Nd8 7. Be2
-   d6 8. h3 f5 9. Bg5 Nf6 10. Nbd2 O-O 11. Nh4 fxe4 12. Nxe4
-   Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3#
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Bb6 5. d4 Qe7 6. d5 Nd8 7. Be2 d6 8. h3 f5 9. Bg5 Nf6 10. Nbd2 O-O 11. Nh4
+   fxe4 12. Nxe4 Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3#
 **** White Neglects Castling 2, pag. 45, https://lichess.org/9vDvNeIV
 1. Nc7+ Bxc7 2. Rxc7 Qxc7 3. Qxa8+ Ke7 4. Qxh8
