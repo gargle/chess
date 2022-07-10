@@ -95,9 +95,9 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
 ** http://www.openchessbooks.org/
 ** [[https://www.chess.com/article/view/learning-chess-patterns-is-easy][Learning Chess Patterns Is Easy, Silman]]
 * study
-** videos
-Naroditsky has the most accessible teaching videos on YouTube as far as I’m concerned.  He’s also writing a
-regular chess column for NYT.
+** notes from https://news.ycombinator.com/item?id=32045763
+I would also recommend Daniel Naroditsky's speed run video series.  Naroditsky has the most accessible teaching
+videos on YouTube as far as I’m concerned.  He’s also writing a regular chess column for NYT.
 
 If you’re intimidated by playing other humans, you can try the “Maia 1” bot on Lichess.  It’ll likely beat you up
 for a while if you’re a beginner, but it’s a bot designed to play more like a human, and it’ll help you get the
