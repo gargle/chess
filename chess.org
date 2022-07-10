@@ -71,8 +71,8 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
    | Pawn   |   1   |
 
    Two bishops coordinate very well as the bishop pair because they can operate on all the squares on the board In
-   an open position (one with few blocked pawns) the bishop pair is stronger thana bishop and a knight. So the
-   bishop is worth a tad more than the knight. In a closed position in which the bishops are restricted by blocked
+   an open position (one with few blocked pawns) the bishop pair is stronger thana bishop and a knight.  So the
+   bishop is worth a tad more than the knight.  In a closed position in which the bishops are restricted by blocked
    pawn chains the knight, on the other hand, is more mobile.
 
 ** https://chessdelta.com/11-best-chess-opening-principles-for-starters-step-by-step/
@@ -95,6 +95,19 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
 ** http://www.openchessbooks.org/
 ** [[https://www.chess.com/article/view/learning-chess-patterns-is-easy][Learning Chess Patterns Is Easy, Silman]]
 * study
+** videos
+Naroditsky has the most accessible teaching videos on YouTube as far as I’m concerned.  He’s also writing a
+regular chess column for NYT.
+
+If you’re intimidated by playing other humans, you can try the “Maia 1” bot on Lichess.  It’ll likely beat you up
+for a while if you’re a beginner, but it’s a bot designed to play more like a human, and it’ll help you get the
+reps to feel more comfortable playing other humans
+
+For those of you thinking about picking up chess, I’d highly recommend watching the Chess Brah “Building Habits”
+series on YouTube.  Watch the first five or so videos, and just start practicing those habits in rapid games
+(recommend 15 minute with 10 second increment on lichess, which shows up as 15+10).  Embrace the losses, and just
+keep working on not hanging your pieces for free.
+
 ** [[https://lichess.org/study/DAmLK0ug][Queen's Gambit]]
    1.  d4 d5
    2.  c4
