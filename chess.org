@@ -96,12 +96,19 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
 ** [[https://www.chess.com/article/view/learning-chess-patterns-is-easy][Learning Chess Patterns Is Easy, Silman]]
 * study
 ** notes from https://news.ycombinator.com/item?id=32045763
-I would also recommend Daniel Naroditsky's speed run video series.  Naroditsky has the most accessible teaching
-videos on YouTube as far as I’m concerned.  He’s also writing a regular chess column for NYT.
+*** I would also recommend Daniel Naroditsky's speed run video series:
 
-If you’re intimidated by playing other humans, you can try the “Maia 1” bot on Lichess.  It’ll likely beat you up
-for a while if you’re a beginner, but it’s a bot designed to play more like a human, and it’ll help you get the
-reps to feel more comfortable playing other humans
+[[https://www.youtube.com/watch?v=Ytkf3qZTj74][Grandmaster Naroditsky Chess Speedrun Pt. 1]]
+
+Naroditsky has the most accessible teaching videos on YouTube as far as I’m concerned.  He’s also writing a
+regular chess column for NYT.
+
+*** If you’re intimidated by playing other humans, you can try the “Maia 1” bot on Lichess.
+
+It’ll likely beat you up for a while if you’re a beginner, but it’s a bot designed to play more like a human, and
+it’ll help you get the reps to feel more comfortable playing other humans
+
+*** Chess Brah “Building Habits” series on YouTube.
 
 For those of you thinking about picking up chess, I’d highly recommend watching the Chess Brah “Building Habits”
 series on YouTube.  Watch the first five or so videos, and just start practicing those habits in rapid games
