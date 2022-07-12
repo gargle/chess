@@ -14,6 +14,8 @@ Give up our rook when we attack the black king.  We take the black knight with o
 black king with our bisshop.  Bh7 and the black king will take it.  We capture the black queen.  Qxf8 success
 ** https://lichess.org/training/7WtZ8
 Attack the white queen with black bishop, Ba6.  To save its queen white can only Qxa6, and we take it by Kxa6.
+** https://lichess.org/training/VYiZn
+Black King on f6 is easy to checkmate with queen, and queen will be protected by pawn on h4.  1. Bf6 Kxf6 2. Qg5#
 
 * chess.com
 ** nelson
