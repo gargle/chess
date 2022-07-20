@@ -17,11 +17,13 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
 ** https://lichess.org/training/VYiZn
 Black king on f6 is easy to checkmate with queen, and queen will be protected by pawn on h4.  1. Bf6 Kxf6 2. Qg5#
 ** https://lichess.org/training/Qqg2o
-   Attack black king with our queen 1. Qh6+.  The back king will take our queen ...Kxh6.  2. Rh3+ Kg5.  3. f4#
+Attack black king with our queen 1. Qh6+.  The back king will take our queen ...Kxh6.  2. Rh3+ Kg5.  3. f4#
 ** https://lichess.org/training/JaCJ7
 Checkmate black king with h7# after it is on g8.  g8 covers f7 and h7.  g7 covers f8 and h8.  1. g6+ Kh8 2. Bg7+
 Kg8 3. h7#
-
+** https://lichess.org/training/N9KZz
+1. ...Qd6 attacks h2 with c7 as its backup.  Black queen on h2 would put white King in check.  1. ...Qd6 2. g3
+   Bxa5
 * chess.com
 ** nelson
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
