@@ -24,6 +24,9 @@ Kg8 3. h7#
 ** https://lichess.org/training/N9KZz
 1. ...Qd6 attacks h2 with c7 as its backup.  Black queen on h2 would put white King in check.  1. ...Qd6 2. g3
    Bxa5
+** https://lichess.org/training/Brdyf
+Attack king with rook so that the black knight will block h8.  Attack the king again but with the
+bisshop.  1. Rh8+ Nxh8 2. Bh7#
 * chess.com
 ** nelson
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
