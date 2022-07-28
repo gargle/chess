@@ -29,6 +29,11 @@ Attack king with rook so that the black knight will block h8.  Attack the king a
 bisshop.  1. Rh8+ Nxh8 2. Bh7#
 * chess.com
 ** nelson
+*** https://www.youtube.com/watch?v=KH2LXUoVGkU
+1. e4 c5 2. Qh5 d6 3. Bc4 e6 4. f4 Nf6 5. Qf3 Be7 6. e5 Nfd7 7. Be2 O-O 8. b3 dxe5 9. Bb5 exf4 10. g3
+   fxg3 11. Bxd7 Bxd7 12. hxg3 Bc6 13. Qd3 Bxh1 14. Qxd8 Rxd8 15. Bb2 Bf6 16. Bxf6 gxf6 17. c4 Nc6 18. Nc3
+   Rd3 19. Na4 b6 20. Kd1 Rad8 21. Ne2 Rxd2+ 22. Ke1 Bf3 23. Ng1 Rd1+ 24. Rxd1 Bxd1 25. Nh3
+*** https://www.youtube.com/watch?v=AHe8heB3kjg
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
 1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3 Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4
    Nf4 11. g3 Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4 Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4
