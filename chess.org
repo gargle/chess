@@ -27,6 +27,10 @@ Kg8 3. h7#
 ** https://lichess.org/training/Brdyf
 Attack king with rook so that the black knight will block h8.  Attack the king again but with the
 bisshop.  1. Rh8+ Nxh8 2. Bh7#
+** https://lichess.org/training/x3oDl
+Attack black king with white bisshop, but first make sure to get rid of Nd4.  In the end we gain the black knight,
+the black queen, and the black bisshop.  We lose our queen and our bisshop.  1. Nxd4 Bxe2 2. Bb5+ Qd7 3. Bxd7+
+Kxd7 4. Nxe2
 * chess.com
 ** nelson
 *** https://www.youtube.com/watch?v=d3SIKroJaH0 (2022)
