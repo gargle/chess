@@ -31,17 +31,22 @@ bisshop.  1. Rh8+ Nxh8 2. Bh7#
 Attack black king with white bisshop, but first make sure to get rid of Nd4.  In the end we gain the black knight,
 the black queen, and the black bisshop.  We lose our queen and our bisshop.  1. Nxd4 Bxe2 2. Bb5+ Qd7 3. Bxd7+
 Kxd7 4. Nxe2
+** https://lichess.org/training/k0a0N
+Checkmate black king on g6 with white queen on f5, protected by white king on f4.  1. Qc8+ Kh7 2. g6+
+fxg6 3. fxg6+ Kxg6 4. Qf5#
 * chess.com
 ** nelson
-*** https://www.youtube.com/watch?v=d3SIKroJaH0 (2022)
+*** TODO https://www.youtube.com/watch?v=d3SIKroJaH0 (2022)
+*** TODO https://www.youtube.com/watch?v=U3sSGSRvSOc (2021)
 *** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
-*** https://www.youtube.com/watch?v=KH2LXUoVGkU (2021) https://lichess.org/jXDTuE75#74
+*** TODO https://www.youtube.com/watch?v=KH2LXUoVGkU (2021) https://lichess.org/jXDTuE75#74
 1. e4 c5 2. Qh5 d6 3. Bc4 e6 4. f4 Nf6 5. Qf3 Be7 6. e5 Nfd7 7. Be2 O-O 8. b3 dxe5 9. Bb5 exf4 10. g3
    fxg3 11. Bxd7 Bxd7 12. hxg3 Bc6 13. Qd3 Bxh1 14. Qxd8 Rxd8 15. Bb2 Bf6 16. Bxf6 gxf6 17. c4 Nc6 18. Nc3
    Rd3 19. Na4 b6 20. Kd1 Rad8 21. Ne2 Rxd2+ 22. Ke1 Bf3 23. Ng1 Rd1+ 24. Rxd1 Bxd1 25. Nh3 Bg4 26. Nf2
    f5 27. Nxg4 fxg4 28. Nb2 h5 29. a4 Nd4 30. Kf1 Nxb3 31. Kg1 Rd2 32. Kf1 Rxb2 33. a5 bxa5 34. Ke1 a4 35. Kd1
    a3 36. Ke1 a2 37. Kd1 a1=Q#
-*** https://www.youtube.com/watch?v=AHe8heB3kjg
+*** DONE https://www.youtube.com/watch?v=AHe8heB3kjg (2021)
+*** STARTED [[https://www.youtube.com/watch?v=cY9zitJFglc?t=193][Stopping Early Queen Attacks]]
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
 1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3 Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4
    Nf4 11. g3 Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4 Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4
@@ -210,5 +215,3 @@ keep working on not hanging your pieces for free.
    fxe4 12. Nxe4 Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3#
 **** White Neglects Castling 2, pag. 45, https://lichess.org/9vDvNeIV
 1. Nc7+ Bxc7 2. Rxc7 Qxc7 3. Qxa8+ Ke7 4. Qxh8
-* TODO
-** https://www.youtube.com/watch?v=U3sSGSRvSOc
