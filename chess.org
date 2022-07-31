@@ -36,9 +36,8 @@ Checkmate black king on g6 with white queen on f5, protected by white king on f4
 fxg6 3. fxg6+ Kxg6 4. Qf5#
 * chess.com
 ** nelson
-*** TODO https://www.youtube.com/watch?v=d3SIKroJaH0 (2022)
+*** STARTED https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
 *** TODO https://www.youtube.com/watch?v=U3sSGSRvSOc (2021)
-*** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
 *** TODO https://www.youtube.com/watch?v=KH2LXUoVGkU (2021) https://lichess.org/jXDTuE75#74
 1. e4 c5 2. Qh5 d6 3. Bc4 e6 4. f4 Nf6 5. Qf3 Be7 6. e5 Nfd7 7. Be2 O-O 8. b3 dxe5 9. Bb5 exf4 10. g3
    fxg3 11. Bxd7 Bxd7 12. hxg3 Bc6 13. Qd3 Bxh1 14. Qxd8 Rxd8 15. Bb2 Bf6 16. Bxf6 gxf6 17. c4 Nc6 18. Nc3
