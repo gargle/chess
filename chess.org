@@ -34,6 +34,9 @@ Kxd7 4. Nxe2
 ** https://lichess.org/training/k0a0N
 Checkmate black king on g6 with white queen on f5, protected by white king on f4.  1. Qc8+ Kh7 2. g6+
 fxg6 3. fxg6+ Kxg6 4. Qf5#
+** https://lichess.org/training/pyXxx
+The goal is to capture the black rook at f4.  Our white rook will be protected by our king at g3.  1. Rg7+
+Kf5 2. Rf7+ Ke5 3. Rxf4
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
@@ -601,7 +604,6 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 (26... Ke7 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#) (26... Qd8+ {M-1 Stockfish 14.1 64-bmi2} 27.Ke1 Qd2#)
 (26... Kd8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#) (26... Kf8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 (26... a5 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
-
 * chess.com
 ** nelson
 *** STARTED https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
