@@ -40,6 +40,9 @@ Kf5 2. Rf7+ Ke5 3. Rxf4
 ** https://lichess.org/training/2yZEg
 Checkmate black king on h1 with rook at h2.  Black queen attacks first.  1. ...Qxg2+ 2. Nxg2 Nf3+ 3. Kh1
 Rxh3+ 4. Bh2 Rxh2#
+** https://lichess.org/training/qQce1
+Our knight at e7 would block g8 and g6 and would force the black king to h7. Rook at h1 will then checkmate the
+black king.  1. Qxg5 hxg5 2. Ne7+ Kh7 3. Rh1#
 
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
