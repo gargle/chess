@@ -37,6 +37,9 @@ fxg6 3. fxg6+ Kxg6 4. Qf5#
 ** https://lichess.org/training/pyXxx
 The goal is to capture the black rook at f4.  Our white rook will be protected by our king at g3.  1. Rg7+
 Kf5 2. Rf7+ Ke5 3. Rxf4
+** https://lichess.org/training/2yZEg
+Checkmate black king on h1 with rook at h2.  Black queen attacks first.  1. ...Qxg2+ 2. Nxg2 Nf3+ 3. Kh1
+Rxh3+ 4. Bh2 Rxh2#
 * chess.com
 ** nelson
 *** STARTED https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
