@@ -616,15 +616,31 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 
 * chess.com
 ** nelson
-*** STARTED https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
-*** TODO https://www.youtube.com/watch?v=U3sSGSRvSOc (2021)
-*** TODO https://www.youtube.com/watch?v=KH2LXUoVGkU (2021) https://lichess.org/jXDTuE75#74
+*** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
+*** STARTED https://www.youtube.com/watch?v=U3sSGSRvSOc (2021) https://lichess.org/heXsY5Mr#90
+1. e4 e5 2. Qh5 { C20 King's Pawn Game: Wayward Queen Attack } Nc6 3. Bc4 g6 4. Qf3 Nf6 5. d3 Bg7 6. Bg5
+   O-O 7. Bxf6 Qxf6 8. Qxf6 Bxf6 9. a3 d6 10. Nd2 Be6 11. Ngf3 Rad8 12. Bxe6 fxe6 13. Rf1 d5 14. exd5 exd5 15. Rd1
+   e4 16. dxe4 dxe4 17. Nxe4 Rfe8 18. Rxd8 Nxd8 19. b3 Rxe4+ 20. Kd2 Nc6 21. Re1 Rxe1 22. Kxe1 Kf7 23. c3
+   Bxc3+ 24. Ke2 Nd4+ 25. Kd3 Nxf3 26. Kxc3 Nxh2 27. a4 Ng4 28. f3 Ne3 29. Kd3 Nxg2 30. b4 h5 31. Ke4 h4 32. b5
+   h3 33. b6 axb6 34. f4 h2 35. a5 bxa5 36. f5 gxf5+ 37. Kxf5 h1=Q 38. Ke4 Qd1 39. Ke5 c5 40. Ke4 c4 41. Ke5
+   c3 42. Ke4 c2 43. Ke5 c1=Q 44. Ke4 Qe3+ 45. Kf5 Qdf3# { Black wins by checkmate. } 0-1
+*** STARTED https://www.youtube.com/watch?v=KH2LXUoVGkU (2021) https://lichess.org/jXDTuE75#74
 1. e4 c5 2. Qh5 d6 3. Bc4 e6 4. f4 Nf6 5. Qf3 Be7 6. e5 Nfd7 7. Be2 O-O 8. b3 dxe5 9. Bb5 exf4 10. g3
    fxg3 11. Bxd7 Bxd7 12. hxg3 Bc6 13. Qd3 Bxh1 14. Qxd8 Rxd8 15. Bb2 Bf6 16. Bxf6 gxf6 17. c4 Nc6 18. Nc3
    Rd3 19. Na4 b6 20. Kd1 Rad8 21. Ne2 Rxd2+ 22. Ke1 Bf3 23. Ng1 Rd1+ 24. Rxd1 Bxd1 25. Nh3 Bg4 26. Nf2
    f5 27. Nxg4 fxg4 28. Nb2 h5 29. a4 Nd4 30. Kf1 Nxb3 31. Kg1 Rd2 32. Kf1 Rxb2 33. a5 bxa5 34. Ke1 a4 35. Kd1
    a3 36. Ke1 a2 37. Kd1 a1=Q#
-*** DONE https://www.youtube.com/watch?v=AHe8heB3kjg (2021)
+*** STARTED https://www.youtube.com/watch?v=8o9oYjF0Bag (2021) https://lichess.org/1zWavLhb#144
+1. e4 g6 { B06 Modern Defense } 2. Qg4 Bg7 3. Qh4 e5 4. Qxd8+ Kxd8 5. d4 d6 6. dxe5 Bxe5 7. Bg5+ f6 8. Bc1
+   Be6 9. Nf3 Nc6 10. Be2 Kd7 11. Bb5 a6 12. Nxe5+ fxe5 13. Bxc6+ bxc6 14. a4 Nf6 15. f3 Rab8 16. b3 d5 17. Bg5
+   Nh5 18. exd5 cxd5 19. O-O Nf4 20. Re1 Kd6 21. Bf6 Rhe8 22. Bxe5+ Kc5 23. Bxf4 Bf5 24. Rxe8 Rxe8 25. Na3
+   Kb4 26. g4 Bc8 27. Bd2+ Kc5 28. Re1 Rd8 29. Be3+ d4 30. Bg5 Rd5 31. Be7+ Kc6 32. Re4 d3 33. cxd3 Rxd3 34. Kg2
+   Rxb3 35. Rc4+ Kb7 36. Rb4+ Rxb4 37. Bxb4 Bd7 38. Bd2 Bxa4 39. Nc4 Kc6 40. Bb4 Kb5 41. Nb2 Kxb4 42. Nd3+
+   Kc4 43. Nb2+ Kb3 44. Nd1 c5 45. Kh3 Kc4 46. Nb2+ Kb3 47. Nd3 c4 48. Nc5+ Kb4 49. Nxa6+ Kb5 50. Nc7+ Kc6 51. Ne6
+   c3 52. Nd8+ Kd6 53. Nf7+ Ke6 54. Ng5+ Ke7 55. Kg3 c2 56. Kh4 c1=Q 57. Nxh7 Qh6+ 58. Kg3 Qxh7 59. g5 Qh5 60. Kg2
+   Qxg5+ 61. Kf2 Qd2+ 62. Kg3 Bd7 63. h3 Kf6 64. h4 g5 65. h5 Qf4+ 66. Kg2 Qh4 67. Kf1 Bh3+ 68. Ke2 Qxh5 69. Kd3
+   Qxf3+ 70. Kd2 Bf5 71. Kc1 Qc3+ 72. Kd1 Bg4# { Black wins by checkmate. } 0-1
+*** WAITING https://www.youtube.com/watch?v=AHe8heB3kjg (2021)
 *** STARTED [[https://www.youtube.com/watch?v=cY9zitJFglc?t=193][Stopping Early Queen Attacks]]
 *** STARTED [[https://www.chess.com/a/2SG3VCcgW2ovv][example on how to beat Nelson]]
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
