@@ -624,6 +624,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    a3 36. Ke1 a2 37. Kd1 a1=Q#
 *** DONE https://www.youtube.com/watch?v=AHe8heB3kjg (2021)
 *** STARTED [[https://www.youtube.com/watch?v=cY9zitJFglc?t=193][Stopping Early Queen Attacks]]
+*** STARTED [[https://www.chess.com/a/2SG3VCcgW2ovv][example on how to beat Nelson]]
 *** https://www.chess.com/analysis/game/computer/14435221?tab=review
 1. e4 Nf6 2. Qf3 e5 3. Qh3 d5 4. Qb3 Nc6 5. exd5 Nxd5 6. Qf3 Nd4 7. Qe4 Bf5 8. Qxe5+ Qe7 9. Qxe7+ Bxe7 10. c4
    Nf4 11. g3 Nd3+ 12. Bxd3 Bxd3 13. Na3 Bc2 14.  Nxc2 Nxc2+ 15. Kd1 Nxa1 16. d4 Rd8 17. Nf3 Bb4 18. a3 Ba5 19. b4
