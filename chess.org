@@ -48,6 +48,9 @@ Try to reach rank 1.  1. ... g5 2. Kd4 h4 3. gxh4 gxh4
 ** https://lichess.org/training/FPfGr
 Attack king with knight.  Once the king is on h6 we see that g7 and g5 become unavailable.  Queen at h1 is
 checkmate. 1. ... Nxe6+ 2. Kh6 Qh1#
+** https://lichess.org/training/tDUpI
+Capture the queen!  First we attack the king with our queen.  Then we attack the king with our knight at c6.  Our
+knight at c6 can capture the queen at e7.  1. Qa6+ Kb8 2. Nxc6+ Ka8 3. Nxe7
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
