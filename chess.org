@@ -51,6 +51,8 @@ checkmate. 1. ... Nxe6+ 2. Kh6 Qh1#
 ** https://lichess.org/training/tDUpI
 Capture the queen!  First we attack the king with our queen.  Then we attack the king with our knight at c6.  Our
 knight at c6 can capture the queen at e7.  1. Qa6+ Kb8 2. Nxc6+ Ka8 3. Nxe7
+** https://lichess.org/training/5YK8f
+We can capture the black bisshop by attacking the black queen.  1. Ne2 Qd6 2. Nxf4
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
