@@ -56,6 +56,9 @@ We can capture the black bisshop by attacking the black queen.  1. Ne2 Qd6 2. Nx
 ** https://lichess.org/training/Huh0z
 We can checkmate the king by bringing him to file h.  With the king on h6 we block g7, h7, and g5.  A rook on h8
 also blocks h5.  1. Qxf8+ Kxf8 2. Rxf7+ Kg8 3. Rf8+ Kh7 4. R1f7+ Kh6 5. Rh8#
+** https://lichess.org/training/ubqw1
+We can checkmate the king with our rook.  Our attacking rook is covered by the other Rf8.  1. ... Qxf1+ 2. Kxf1
+Rxf2+ 3. Kg1 Rf1#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
