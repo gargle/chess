@@ -59,6 +59,9 @@ also blocks h5.  1. Qxf8+ Kxf8 2. Rxf7+ Kg8 3. Rf8+ Kh7 4. R1f7+ Kh6 5. Rh8#
 ** https://lichess.org/training/ubqw1
 We can checkmate the king with our rook.  Our attacking rook is covered by the other Rf8.  1. ... Qxf1+ 2. Kxf1
 Rxf2+ 3. Kg1 Rf1#
+** https://lichess.org/training/SpWA1
+Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8. 2. Qe8+ Qf8 Both Qxf8#
+and Rxf8# give us checkmate.
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
