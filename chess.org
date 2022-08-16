@@ -59,6 +59,9 @@ also blocks h5.  1. Qxf8+ Kxf8 2. Rxf7+ Kg8 3. Rf8+ Kh7 4. R1f7+ Kh6 5. Rh8#
 ** https://lichess.org/training/ubqw1
 We can checkmate the king with our rook.  Our attacking rook is covered by the other Rf8.  1. ... Qxf1+ 2. Kxf1
 Rxf2+ 3. Kg1 Rf1#
+** https://lichess.org/training/veIHw
+Attack the queen.  The goal is to attack the knight at c4 and get rid of the bisshop at e6.  1. Nc3 Qc6 2. Nxc4
+Bxc4.  3. Qxc4
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
