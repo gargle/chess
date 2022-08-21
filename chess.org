@@ -65,6 +65,9 @@ Bxc4.  3. Qxc4
 ** https://lichess.org/training/SpWA1
 Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8. 2. Qe8+ Qf8 Both Qxf8#
 and Rxf8# give us checkmate.
+** https://lichess.org/training/LSZmD
+We will lose our queen when attacking the black queen, but gain it back with our white pawn on f6.  1. Qxg5
+Nxg5. 2. fxe7 Nxe6. 3. e8=Q
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
@@ -635,6 +638,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 
 * chess.com
 ** nelson
+*** WAITING https://www.reddit.com/r/chessbeginners/comments/n9h2p8/my_guide_to_beating_the_chesscom_bot_nelson_1300/
 *** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
 *** STARTED https://www.youtube.com/watch?v=U3sSGSRvSOc (2021) https://lichess.org/heXsY5Mr#90
 1. e4 e5 2. Qh5 { C20 King's Pawn Game: Wayward Queen Attack } Nc6 3. Bc4 g6 4. Qf3 Nf6 5. d3 Bg7 6. Bg5
@@ -702,6 +706,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
+** https://professorchess.com/
 ** https://goldenchess.in/2021/01/13/13-smart-chess-training-ideas-that-work/
 ** https://www.youtube.com/results?search_query=chessbrah+building+habbits
 ** https://www.reddit.com/r/chess/comments/sbsdht/calculation_advice_seeing_opponents_moves/
