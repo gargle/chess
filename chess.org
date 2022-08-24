@@ -61,13 +61,16 @@ We can checkmate the king with our rook.  Our attacking rook is covered by the o
 Rxf2+ 3. Kg1 Rf1#
 ** https://lichess.org/training/veIHw
 Attack the queen.  The goal is to attack the knight at c4 and get rid of the bisshop at e6.  1. Nc3 Qc6 2. Nxc4
-Bxc4.  3. Qxc4
+Bxc4  3. Qxc4
 ** https://lichess.org/training/SpWA1
-Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8. 2. Qe8+ Qf8 Both Qxf8#
+Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8 2. Qe8+ Qf8 Both Qxf8#
 and Rxf8# give us checkmate.
 ** https://lichess.org/training/LSZmD
 We will lose our queen when attacking the black queen, but gain it back with our white pawn on f6.  1. Qxg5
-Nxg5. 2. fxe7 Nxe6. 3. e8=Q
+Nxg5 2. fxe7 Nxe6 3. e8=Q
+** https://lichess.org/training/XQ5eg
+Attack the king with our rook, and then with the pawn at b2.  The black rook cannot attack us because the king has
+to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
