@@ -17,7 +17,7 @@ Attack the white queen with black bishop, Ba6.  To save its queen white can only
 ** https://lichess.org/training/VYiZn
 Black king on f6 is easy to checkmate with queen, and queen will be protected by pawn on h4.  1. Bf6 Kxf6 2. Qg5#
 ** https://lichess.org/training/Qqg2o
-Attack black king with our queen 1. Qh6+.  The back king will take our queen ...Kxh6.  2. Rh3+ Kg5.  3. f4#
+Attack black king with our queen.  The black king will take our queen.  1. Qh6+ Kxh6 2. Rh3+ Kg5 3. f4#
 ** https://lichess.org/training/JaCJ7
 Checkmate black king with h7# after it is on g8.  g8 covers f7 and h7.  g7 covers f8 and h8.  1. g6+ Kh8 2. Bg7+
 Kg8 3. h7#
@@ -61,9 +61,9 @@ We can checkmate the king with our rook.  Our attacking rook is covered by the o
 Rxf2+ 3. Kg1 Rf1#
 ** https://lichess.org/training/veIHw
 Attack the queen.  The goal is to attack the knight at c4 and get rid of the bisshop at e6.  1. Nc3 Qc6 2. Nxc4
-Bxc4.  3. Qxc4
+Bxc4  3. Qxc4
 ** https://lichess.org/training/SpWA1
-Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8. 2. Qe8+ Qf8 Both Qxf8#
+Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Qe6+ Kh8 2. Qe8+ Qf8 Both Qxf8#
 and Rxf8# give us checkmate.
 ** https://lichess.org/training/LSZmD
 We will lose our queen when attacking the black queen, but gain it back with our white pawn on f6.  1. Qxg5
@@ -71,6 +71,10 @@ Nxg5. 2. fxe7 Nxe6. 3. e8=Q
 ** https://lichess.org/training/akefu
 Pawn to d2 forces the rook to move.  We can then attack the king with our bisshop.  1. ... d2 2. Rd6 Bc7 3. Kf2
 Bxd6
+Nxg5 2. fxe7 Nxe6 3. e8=Q
+** https://lichess.org/training/XQ5eg
+Attack the king with our rook, and then with the pawn at b2.  The black rook cannot attack us because the king has
+to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
@@ -803,6 +807,8 @@ keep working on not hanging your pieces for free.
       *** TO BE CONTINUED ***
 ***    ...  c6   (Slav and Semi-Slav Defenses)
 ** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
+** books
+*** http://www.pdfdrive.com/chess-books.html
 * The Complete Chess Course - Fred Reinfeld
 ** Book Two, The Nine Bad Moves, pag. 38
 *** Neglecting Development of Your Pieces, pag. 38
