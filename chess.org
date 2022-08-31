@@ -67,6 +67,10 @@ Qc8+ isn't an option.  The black rook at d3 and knight at c6 can block us.  1. Q
 and Rxf8# give us checkmate.
 ** https://lichess.org/training/LSZmD
 We will lose our queen when attacking the black queen, but gain it back with our white pawn on f6.  1. Qxg5
+Nxg5. 2. fxe7 Nxe6. 3. e8=Q
+** https://lichess.org/training/akefu
+Pawn to d2 forces the rook to move.  We can then attack the king with our bisshop.  1. ... d2 2. Rd6 Bc7 3. Kf2
+Bxd6
 Nxg5 2. fxe7 Nxe6 3. e8=Q
 ** https://lichess.org/training/XQ5eg
 Attack the king with our rook, and then with the pawn at b2.  The black rook cannot attack us because the king has
