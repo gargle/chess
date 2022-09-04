@@ -75,6 +75,8 @@ Nxg5 2. fxe7 Nxe6 3. e8=Q
 ** https://lichess.org/training/XQ5eg
 Attack the king with our rook, and then with the pawn at b2.  The black rook cannot attack us because the king has
 to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
+** https://lichess.org/training/jCHwY
+Attack the king with bisshop at d5 by moving our rook.  1. Re8+ Re6 2. Bxe6+ Kh8 3. Rxf8#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
