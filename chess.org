@@ -77,6 +77,8 @@ Attack the king with our rook, and then with the pawn at b2.  The black rook can
 to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
 ** https://lichess.org/training/jCHwY
 Attack the king with bisshop at d5 by moving our rook.  1. Re8+ Re6 2. Bxe6+ Kh8 3. Rxf8#
+** https://lichess.org/training/xHMGF
+We can reach rank 8 with our pawn.  1. d6+ Kd7 2. dxe7
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
