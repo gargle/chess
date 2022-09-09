@@ -79,6 +79,9 @@ to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
 Attack the king with bisshop at d5 by moving our rook.  1. Re8+ Re6 2. Bxe6+ Kh8 3. Rxf8#
 ** https://lichess.org/training/xHMGF
 We can reach rank 8 with our pawn.  1. d6+ Kd7 2. dxe7
+** https://lichess.org/training/2qnYk
+Attack with bisshop, and then attack the white pawn in the a file.  We do not attack the pawn in the c file as the
+king can escape by means of Kd3.  1. ... Ba3+ 2. Kb1 bxa2+ 3. Ka1 Qb2#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
@@ -647,7 +650,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 (26... Kd8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#) (26... Kf8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 (26... a5 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 
-* chess.com
+* [[https://www.chess.com/home][chess.com]]
 ** nelson
 *** WAITING https://www.reddit.com/r/chessbeginners/comments/n9h2p8/my_guide_to_beating_the_chesscom_bot_nelson_1300/
 *** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
@@ -687,7 +690,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    Rf3 56. Kb4 Rxf4+ 57. Kb5 h4 58. Ka5 h3 59. Kb5 h2 60. Kc6 h1=Q+ 61. Kxc7 Rd4 62. Kb6 Qc1 63. Kb7 Rb4+ 64. Ka7
    Qa1# 0-1
 
-* lichess.org
+* [[https://lichess.org/][lichess.org]]
 ** game
 *** numbers (a+b)
     a (in minutes) is the time you have for thinking and playing your moves in the whole game
@@ -713,6 +716,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    h3 61. Ke6 h2 62. Ke5 h1=Q 63. Nf5 Qe1+ 64. Kf4 g6 65. Ne3 Qh3 66. Ke4 Qexe3+ 67. Kd5 Qd7+ 68. Kc4 Qc1+ 69. Kb3
    Qb7+ 70. Ka4 Qa1# { Black wins by checkmate. } 0-1
 
+* [[https://listudy.org/en][listudy.org]]
 * study
 ** https://www.youtube.com/c/chessbrah
 ** https://www.wikihow.com/Category:Chess
