@@ -717,6 +717,9 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    Qb7+ 70. Ka4 Qa1# { Black wins by checkmate. } 0-1
 
 * [[https://listudy.org/en][listudy.org]]
+* podcasts
+** [[https://open.spotify.com/show/74A0JotybXUvnviTCzsSUp][How To Chess]]
+** [[https://www.perpetualchesspod.com/][The Perpetual Chess Podcast]]
 * study
 ** https://www.youtube.com/c/chessbrah
 ** https://www.wikihow.com/Category:Chess
