@@ -684,7 +684,15 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    Rd3 47.  Be5 Rd2+ 48. Kf3 b2 49. Bxb2 Rxb2 50. Ke3 a5 51. Kd3 a4 52. Kc3 Rh2 53. Kb4 h5 54. Ka3 Rh3+ 55. Kxa4
    Rf3 56. Kb4 Rxf4+ 57. Kb5 h4 58. Ka5 h3 59. Kb5 h2 60. Kc6 h1=Q+ 61. Kxc7 Rd4 62. Kb6 Qc1 63. Kb7 Rb4+ 64. Ka7
    Qa1# 0-1
-
+*** https://www.chess.com/analysis/game/computer/18466173?tab=analysis
+1. e4 e5 2. Qh5 Nc6 3. c3 g6 4. Qd1 d6 5. d4 Nf6 6. Qd3 Bd7 7. d5 Nd4 8. cxd4 exd4 9. Qxd4 Qe7 10. f3 c5 11. dxc6
+   Bxc6 12. Nh3 Bg7 13. Qd2 O-O 14. b4 Nxe4 15. fxe4 Qxe4+ 16. Be2 Bxa1 17. Na3 a6 18. Nf4 Be5 19. Nc4
+   Bxf4 20. Qxf4 Qxf4 21. Bxf4 Bxg2 22. Rg1 Bd5 23. Bxd6 Rfd8 24. Bc7 Rdc8 25. Be5 Bxc4 26. Bf3 Bxa2 27. Bxb7
+   Rab8 28. Bxc8 Rxc8 29. Rg2 Re8 30. Rxa2 Rxe5+ 31. Kf2 Re4 32. Ra5 Rxb4 33. Rxa6 Rb2+ 34. Kg3 h5 35. Rf6
+   Rb4 36. Kf3 h4 37. Rc6 Rb3+ 38. Ke2 h3 39. Kd1 Rb2 40. Rc2 Rb1+ 41. Ke2 Rh1 42. Kd3 Rg1 43. Kc3 Rg2 44. Rc1
+   Rxh2 45. Kb3 Rg2 46. Kc4 h2 47. Kd5 Rg1 48. Rc8+ Kg7 49. Rc7 h1=Q+ 50. Kc5 Qh2 51. Re7 Rg2 52. Kc6 Re2 53. Rxe2
+   Qxe2 54. Kb7 f5 55. Kc7 g5 56. Kd7 g4 57. Kd6 f4 58. Kd5 g3 59. Kd6 f3 60. Kc6 f2 61. Kd7 g2 62. Kc7
+   g1=Q 63. Kc8 f1=Q 64. Kc7 Qe6 65. Kb7 Qff7+ 66. Kb8 Qga7# 0-1
 * lichess.org
 ** game
 *** numbers (a+b)
