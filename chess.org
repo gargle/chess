@@ -77,6 +77,11 @@ Attack the king with our rook, and then with the pawn at b2.  The black rook can
 to take our pawn at b4.  1. Rd3+ Kc5 2. b4+ Kxb4 3. Rxd6
 ** https://lichess.org/training/jCHwY
 Attack the king with bisshop at d5 by moving our rook.  1. Re8+ Re6 2. Bxe6+ Kh8 3. Rxf8#
+** https://lichess.org/training/xHMGF
+We can reach rank 8 with our pawn.  1. d6+ Kd7 2. dxe7
+** https://lichess.org/training/2qnYk
+Attack with bisshop, and then attack the white pawn in the a file.  We do not attack the pawn in the c file as the
+king can escape by means of Kd3.  1. ... Ba3+ 2. Kb1 bxa2+ 3. Ka1 Qb2#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
@@ -645,7 +650,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 (26... Kd8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#) (26... Kf8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 (26... a5 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 
-* chess.com
+* [[https://www.chess.com/home][chess.com]]
 ** nelson
 *** WAITING https://www.reddit.com/r/chessbeginners/comments/n9h2p8/my_guide_to_beating_the_chesscom_bot_nelson_1300/
 *** TODO https://www.youtube.com/watch?v=Uk64fI-RqmE (2021) 
@@ -693,7 +698,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    Rxh2 45. Kb3 Rg2 46. Kc4 h2 47. Kd5 Rg1 48. Rc8+ Kg7 49. Rc7 h1=Q+ 50. Kc5 Qh2 51. Re7 Rg2 52. Kc6 Re2 53. Rxe2
    Qxe2 54. Kb7 f5 55. Kc7 g5 56. Kd7 g4 57. Kd6 f4 58. Kd5 g3 59. Kd6 f3 60. Kc6 f2 61. Kd7 g2 62. Kc7
    g1=Q 63. Kc8 f1=Q 64. Kc7 Qe6 65. Kb7 Qff7+ 66. Kb8 Qga7# 0-1
-* lichess.org
+* [[https://lichess.org/][lichess.org]]
 ** game
 *** numbers (a+b)
     a (in minutes) is the time you have for thinking and playing your moves in the whole game
@@ -719,6 +724,10 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    h3 61. Ke6 h2 62. Ke5 h1=Q 63. Nf5 Qe1+ 64. Kf4 g6 65. Ne3 Qh3 66. Ke4 Qexe3+ 67. Kd5 Qd7+ 68. Kc4 Qc1+ 69. Kb3
    Qb7+ 70. Ka4 Qa1# { Black wins by checkmate. } 0-1
 
+* [[https://listudy.org/en][listudy.org]]
+* podcasts
+** [[https://open.spotify.com/show/74A0JotybXUvnviTCzsSUp][How To Chess]]
+** [[https://www.perpetualchesspod.com/][The Perpetual Chess Podcast]]
 * study
 ** https://www.youtube.com/c/chessbrah
 ** https://www.wikihow.com/Category:Chess
