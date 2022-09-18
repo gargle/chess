@@ -82,6 +82,11 @@ We can reach rank 8 with our pawn.  1. d6+ Kd7 2. dxe7
 ** https://lichess.org/training/2qnYk
 Attack with bisshop, and then attack the white pawn in the a file.  We do not attack the pawn in the c file as the
 king can escape by means of Kd3.  1. ... Ba3+ 2. Kb1 bxa2+ 3. Ka1 Qb2#
+** https://lichess.org/training/HPEmW
+Attacking the rook at h8 by means of Nf7 forces the queen on f7.  1. Nxf7 Qxf7 2. Bg6 O-O-O 3. Bxf7
+** https://lichess.org/training/DPPRs
+A bisshop on f7 attacks the king while protected by our knight on e5.  f7 isn't under attack by any white
+piece.  1. Nf6+ gxf6 2. Bxf7#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 
