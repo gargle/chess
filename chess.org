@@ -87,6 +87,9 @@ Attacking the rook at h8 by means of Nf7 forces the queen on f7.  1. Nxf7 Qxf7 2
 ** https://lichess.org/training/DPPRs
 A bisshop on f7 attacks the king while protected by our knight on e5.  f7 isn't under attack by any white
 piece.  1. Nf6+ gxf6 2. Bxf7#
+** https://lichess.org/training/Z3oln
+Threaten the king and block the black queen, next attack the queen.  Our queen at b3 covers a2, b2, b1, and c3.
+d4 is guarded by e3.  1. Qb3+ Kh7 2. Rc1 Qxc1 3. Rxc1
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 [Event "Play against an engine"]
