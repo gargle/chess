@@ -87,9 +87,11 @@ Attacking the rook at h8 by means of Nf7 forces the queen on f7.  1. Nxf7 Qxf7 2
 ** https://lichess.org/training/DPPRs
 A bisshop on f7 attacks the king while protected by our knight on e5.  f7 isn't under attack by any white
 piece.  1. Nf6+ gxf6 2. Bxf7#
+** https://lichess.org/training/Z3oln
+Threaten the king and block the black queen, next attack the queen.  Our queen at b3 covers a2, b2, b1, and c3.
+d4 is guarded by e3.  1. Qb3+ Kh7 2. Rc1 Qxc1 3. Rxc1
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
-
 [Event "Play against an engine"]
 [Site "Lucas Chess R2.0"]
 [Date "2022.08.02"]
@@ -655,6 +657,26 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 (26... Kd8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#) (26... Kf8 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 (26... a5 {M-1 Stockfish 14.1 64-bmi2} 27.Kc1 Rxf1#)
 
+** [TimeControl "-"][White "Acqua 2.0"][Black "gargle"]
+[Event "Play against an engine"]
+[Site "Lucas Chess R2.0"]
+[Date "2022.09.19"]
+[White "Acqua 2.0"]
+[Black "gargle"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Opening "English Opening: The Whale"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. c4 e5 2. e4 { C20 English Opening: The Whale } Bc5 3. d4 Bxd4 4. c5 Nc6 5. a4 Nf6 6. a5 d5 7. exd5 Nxd5 8. a6
+   bxa6 9. g4 Be6 10. Bxa6 O-O 11. g5 Nf4 12. g6 Ng2+ 13. Ke2 Bg4+ 14. f3 Bh5 15. Nh3 Qh4 16. gxf7+ Rxf7 17. Ng5
+   Rf5 18. Ne6 Ne3 19. Qa4 Bxf3+ 20. Kd3 Bxh1 21. Nxc7 Raf8 22. h3 Be4+ 23. Kd2 Nf1+ 24. Bxf1 Rxf1 25. Na3 R8f2# {
+   Black wins. } 0-1
 * [[https://www.chess.com/home][chess.com]]
 ** nelson
 *** WAITING https://www.reddit.com/r/chessbeginners/comments/n9h2p8/my_guide_to_beating_the_chesscom_bot_nelson_1300/
