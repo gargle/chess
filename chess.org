@@ -833,6 +833,7 @@ keep working on not hanging your pieces for free.
 ***    ...  c6   (Slav and Semi-Slav Defenses)
 ** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
 ** books
+*** https://z-lib.org/
 *** http://www.pdfdrive.com/chess-books.html
 * The Complete Chess Course - Fred Reinfeld
 ** Book Two, The Nine Bad Moves, pag. 38
