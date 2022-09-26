@@ -764,6 +764,14 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 *** TODO [[https://www.youtube.com/watch?v=8kdjSqNcViw][Chess Fundamentals #5: Trades]]
 ** [[https://www.youtube.com/watch?v=U2huVf1l4UE][Climbing the Rating Ladder, John Bartholomew]]
 ** [[https://www.youtube.com/playlist?list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69][Building Chess Habits, chessbrah]]
+*** TODO [[https://www.youtube.com/watch?v=axRvksIZpGc&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=1][BUILDING HABITS to improve your chess | 0-500 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=WPmbUXQloHs&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=2][BUILDING HABITS to improve your chess | 500-700 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=Oyww1wXu4ZI&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=3][BUILDING HABITS to improve your chess | 700-900 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=kf1QtTLZyXA&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=4][BUILDING HABITS to improve your chess | 900-1100 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=jquaz5axNC4&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=5][BUILDING HABITS to improve your chess | 1100-1300 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=TGGwcsw5KUc&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=6][BUILDING HABITS to improve your chess | 1300-1400 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=nWrsCF6Ag6Q&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=7][BUILDING HABITS to improve your chess | 1400-1550 ELO]]
+*** TODO [[https://www.youtube.com/watch?v=b4W_KpBmXB0&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=8][BUILDING HABITS to improve your chess | 1550-1900 ELO]]
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
