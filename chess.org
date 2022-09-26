@@ -756,7 +756,14 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 ** [[https://open.spotify.com/show/74A0JotybXUvnviTCzsSUp][How To Chess]]
 ** [[https://www.perpetualchesspod.com/][The Perpetual Chess Podcast]]
 * study
-** https://www.youtube.com/c/chessbrah
+** [[https://www.youtube.com/watch?v=Ao9iOeK_jvU][Chess Fundamentals, John Bartholomew]]
+*** TODO [[https://www.youtube.com/watch?v=Ao9iOeK_jvU][Chess Fundamentals #1: Undefended Pieces]]
+*** TODO [[https://www.youtube.com/watch?v=TWJ6751RRis][Chess Fundamentals #2: Coordination]]
+*** TODO [[https://www.youtube.com/watch?v=I5o2d9slUCM][Chess Fundamentals #3: Typical Mistakes]]
+*** TODO [[https://www.youtube.com/watch?v=h-JGqEiNs-I][Chess Fundamentals #4: Pawn Play]]
+*** TODO [[https://www.youtube.com/watch?v=8kdjSqNcViw][Chess Fundamentals #5: Trades]]
+** [[https://www.youtube.com/watch?v=U2huVf1l4UE][Climbing the Rating Ladder, John Bartholomew]]
+** [[https://www.youtube.com/playlist?list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69][Building Chess Habits, chessbrah]]
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
