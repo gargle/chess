@@ -772,6 +772,12 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 *** TODO [[https://www.youtube.com/watch?v=TGGwcsw5KUc&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=6][BUILDING HABITS to improve your chess | 1300-1400 ELO]]
 *** TODO [[https://www.youtube.com/watch?v=nWrsCF6Ag6Q&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=7][BUILDING HABITS to improve your chess | 1400-1550 ELO]]
 *** TODO [[https://www.youtube.com/watch?v=b4W_KpBmXB0&list=PLUjxDD7HNNThftJtE0OIRFRMMFf6AV_69&index=8][BUILDING HABITS to improve your chess | 1550-1900 ELO]]
+** [[https://www.youtube.com/c/DanielNaroditskyGM][Daniel Naroditsky]]
+*** TODO [[https://www.youtube.com/watch?v=Ytkf3qZTj74&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=1][Grandmaster Naroditsky Chess Speedrun Pt. 1]]
+*** TODO [[https://www.youtube.com/watch?v=HiCeU8tIh0U&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=2][Grandmaster Naroditsky Chess Speedrun Pt. 2]]
+*** TODO [[https://www.youtube.com/watch?v=3knyQ8z7lrQ&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=3][Grandmaster Naroditsky Chess Speedrun Pt. 3]]
+*** TODO [[https://www.youtube.com/watch?v=aEKSPFwvFoY&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=4][Grandmaster Naroditsky Chess Speedrun Pt. 4]]
+*** TODO [[https://www.youtube.com/watch?v=PHAmfkkrSSs&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=5][Grandmaster Naroditsky Chess Speedrun Pt. 5]]
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
