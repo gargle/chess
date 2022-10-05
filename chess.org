@@ -90,6 +90,12 @@ piece.  1. Nf6+ gxf6 2. Bxf7#
 ** https://lichess.org/training/Z3oln
 Threaten the king and block the black queen, next attack the queen.  Our queen at b3 covers a2, b2, b1, and c3.
 d4 is guarded by e3.  1. Qb3+ Kh7 2. Rc1 Qxc1 3. Rxc1
+** https://lichess.org/training/Shl8h
+Threaten the king and take the white queen, losing our queen and a rook while white loses two rooks and a
+queen.  1. ... Qxg2+ 2. Rxg2 Re1+ 3. Rg1 4. Rxg1+ Kxg1 5. gxh6
+** https://lichess.org/training/JCIym
+Block the black king first with our own king, thus forcing black to only use their pawn.  Once we get a queen we
+can checkmate the black king.  1. Kc2 h5 2. g5 h4 3. g6 h3 4. g7 h2 5. g8=Q h1=Q 6. Qg7#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 [Event "Play against an engine"]
