@@ -882,10 +882,10 @@ keep working on not hanging your pieces for free.
 ***    ...  c6   (Slav and Semi-Slav Defenses)
 ** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
 ** TODO https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
-** books
-*** https://z-lib.org/
-*** http://www.pdfdrive.com/chess-books.html
-* The Complete Chess Course - Fred Reinfeld
+* books
+** https://z-lib.org/
+** http://www.pdfdrive.com/chess-books.html
+** The Complete Chess Course - Fred Reinfeld
 ** Book Two, The Nine Bad Moves, pag. 38
 *** Neglecting Development of Your Pieces, pag. 38
 **** Disastrous Pawn Moves, pag. 38, https://lichess.org/rGLXTaIs
