@@ -96,6 +96,9 @@ queen.  1. ... Qxg2+ 2. Rxg2 Re1+ 3. Rg1 4. Rxg1+ Kxg1 5. gxh6
 ** https://lichess.org/training/JCIym
 Block the black king first with our own king, thus forcing black to only use their pawn.  Once we get a queen we
 can checkmate the black king.  1. Kc2 h5 2. g5 h4 3. g6 h3 4. g7 h2 5. g8=Q h1=Q 6. Qg7#
+** https://lichess.org/training/PmaYc
+Attack the king with our queen on f2 where it can't be reached.  The goal is to get our bisshop on g2, but it will
+be captured before.  1. ... Qf2+ 2. Kh1 Bf1 3. Rxf1 Qxf1+ 4. Qxf1 Rxf1#
 * lucas chess
 ** [TimeStart "2022.08.02 08:35:34"][White "Ufim 8.02 (700)"][Black "gargle"]
 [Event "Play against an engine"]
