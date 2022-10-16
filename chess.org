@@ -784,6 +784,7 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 *** TODO [[https://www.youtube.com/watch?v=3knyQ8z7lrQ&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=3][Grandmaster Naroditsky Chess Speedrun Pt. 3]]
 *** TODO [[https://www.youtube.com/watch?v=aEKSPFwvFoY&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=4][Grandmaster Naroditsky Chess Speedrun Pt. 4]]
 *** TODO [[https://www.youtube.com/watch?v=PHAmfkkrSSs&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=5][Grandmaster Naroditsky Chess Speedrun Pt. 5]]
+*** STARTED [[https://www.youtube.com/watch?v=XzgnlvT5-6Y][A Grandmaster Plays a Beginner | Chess Mastery Explained]]
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
