@@ -788,6 +788,25 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
 *** TODO [[https://www.youtube.com/watch?v=aEKSPFwvFoY&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=4][Grandmaster Naroditsky Chess Speedrun Pt. 4]]
 *** TODO [[https://www.youtube.com/watch?v=PHAmfkkrSSs&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit&index=5][Grandmaster Naroditsky Chess Speedrun Pt. 5]]
 *** STARTED [[https://www.youtube.com/watch?v=XzgnlvT5-6Y][A Grandmaster Plays a Beginner | Chess Mastery Explained]]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+Nf6 isn't attacking the pawn at e4 yet because king side development isn't finished (bishop still on f8, king still on e8).
+5. Nc3 b5
+b5 because annoyed by the bishop on a4.
+6. Bb3 Bc5
+Bishop on c5 controls the most squares. e7 and d6 look obvious, but don't control much, same for b4 and a3.  A
+bishop on c5 also attacks f2, the weakest square (Ng4 would defend f2 first).
+7. O-O d6
+Bishop on c8 may go to g4 or a fianchetto (bishop on a long diagonal; h1-a8, h8-a1, here it's b7).  We go for g4
+by first opening up d7 by doing d6.
+9. d3 Bg4
+Bg4 lines up with the queen at d1, Bc5 lines up with the king at g1.
+10. h3 Bh5
+Bg4 is immobilising the knight at f3 (which protects the queen at d1), so we move to Bh5.
+11. Bg5 h6
+Chasing the bishop away by doing h6.  Bishop Bg5 attacks my queen at d8 by attacking the knight at f6 first.
+12. Bh4
+timestamp 7:08 (https://youtu.be/XzgnlvT5-6Y?t=428)
+
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
