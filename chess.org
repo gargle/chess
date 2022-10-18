@@ -793,20 +793,34 @@ Nf6 isn't attacking the pawn at e4 yet because king side development isn't finis
 5. Nc3 b5
 b5 because annoyed by the bishop on a4.
 6. Bb3 Bc5
-Bishop on c5 controls the most squares. e7 and d6 look obvious, but don't control much, same for b4 and a3.  A
+Bishop on c5 controls the most squares.  e7 and d6 look obvious, but don't control much, same for b4 and a3.  A
 bishop on c5 also attacks f2, the weakest square (Ng4 would defend f2 first).
 7. O-O d6
 Bishop on c8 may go to g4 or a fianchetto (bishop on a long diagonal; h1-a8, h8-a1, here it's b7).  We go for g4
-by first opening up d7 by doing d6.
+by first opening up d7 by doing d6.  (White may do h3; prophylaxis consists of a move or series of moves done by a
+player to prevent their opponent from taking some action. Such preventative moves, or prophylactic moves, aim not
+only to improve one's position but also to restrict the opponent in improving their own.)
 9. d3 Bg4
 Bg4 lines up with the queen at d1, Bc5 lines up with the king at g1.
-10. h3 Bh5
+10. h3 Bh5  (See 7., this is this prophylaxis move)
 Bg4 is immobilising the knight at f3 (which protects the queen at d1), so we move to Bh5.
 11. Bg5 h6
 Chasing the bishop away by doing h6.  Bishop Bg5 attacks my queen at d8 by attacking the knight at f6 first.
-12. Bh4
-timestamp 7:08 (https://youtu.be/XzgnlvT5-6Y?t=428)
-
+12. Bh4 g5
+13. Qe2 gxh4
+gxh4 opens up the g file towards the king at g1!
+14. Nd5 Nd4
+Nd5 does't attack much.  Our knight at f6 is protected by our queen at d8.  Our pawn at c7 is also protected by our queen.
+Nd4 attacks the knight at f3 and attacks the queen at e2.  f3 cannot move because it protects the queen from our bisshop at h5.
+f3 is protected by the pawn at g2.  If g2 moves then the g rank will be open for an attack at the king.
+15. Nxf6 Qxf6
+16. Qd1 Nxf3
+17. gxf3 Rg8+
+18. Kh1 Bxf3
+f3 pawn is only protected by the white queen at d1.  Our bisshop at h5 and our queen at f6 attack the pawn at f3.
+Bxf3 is a fork.  Our bisshop attacks both the king at h1 and the queen at d1.
+19. Qxf3 Qxf3
+20. Kh2 Qg2#
 ** https://www.wikihow.com/Category:Chess
 ** https://www.wikihow.com/Win-Chess-Openings:-Playing-Black?amp=1
 ** https://www.wikihow.com/Become-a-Better-Chess-Player?amp=1
