@@ -958,3 +958,18 @@ keep working on not hanging your pieces for free.
    fxe4 12. Nxe4 Nxe4 13. Bxe7 Bxf2+ 14. Kf1 Ng3#
 **** White Neglects Castling 2, pag. 45, https://lichess.org/9vDvNeIV
 1. Nc7+ Bxc7 2. Rxc7 Qxc7 3. Qxa8+ Ke7 4. Qxh8
+
+* skak latex in org mode
+
+** evaluate this first
+(setq org-confirm-babel-evaluate nil)
+(org-babel-do-load-languages 'org-babel-load-languages '((latex . t)))
+
+** a chess position, use c-c c-x c-v to show the image, m-x org-redisplay-inline-images to update
+#+begin_src latex :file /tmp/chess.png :results output silent :headers '("\\usepackage{skak}")
+  \newgame
+  \hidemoves{1. g4 e5 2. f3 Qh4#}
+  \showboard
+#+end_src
+
+[[/tmp/chess.png]]
