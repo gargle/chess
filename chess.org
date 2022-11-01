@@ -920,6 +920,7 @@ keep working on not hanging your pieces for free.
 ** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
 ** TODO https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
 ** TODO https://chessfox.com/example-of-the-complete-evaluation-process-of-chess-a-chess-position/
+** TODO https://nextlevelchess.blog/remember/
 * books
 ** https://z-lib.org/
 ** http://www.pdfdrive.com/chess-books.html
