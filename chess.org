@@ -760,6 +760,8 @@ Rxf1#) (26... f5 {M-1 Stockfish 14.1 64-bmi2} 27.exf5 Rxf1#) (26... c6 {M-1 Stoc
    h3 61. Ke6 h2 62. Ke5 h1=Q 63. Nf5 Qe1+ 64. Kf4 g6 65. Ne3 Qh3 66. Ke4 Qexe3+ 67. Kd5 Qd7+ 68. Kc4 Qc1+ 69. Kb3
    Qb7+ 70. Ka4 Qa1# { Black wins by checkmate. } 0-1
 
+** study
+*** [[https://lichess.org/study/Cveq6Mzs][The Complete Encyclopedia of Sicilian]]
 * [[https://listudy.org/en][listudy.org]]
 * [[https://www.freechess.org/]]
 * podcasts
