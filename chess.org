@@ -920,6 +920,7 @@ keep working on not hanging your pieces for free.
    9.  O-O       (King side caste is better, but it's not explained)
       *** TO BE CONTINUED ***
 ***    ...  c6   (Slav and Semi-Slav Defenses)
+** TODO [[https://www.reddit.com/r/chess/comments/yto1fa/what_are_the_chess_books_or_online_courses_that/][What are the chess books or online courses that were the most beneficial to your chess progress ?]]
 ** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
 ** TODO https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
 ** TODO https://chessfox.com/example-of-the-complete-evaluation-process-of-chess-a-chess-position/
