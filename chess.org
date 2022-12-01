@@ -1,4 +1,4 @@
-* Johan's chess notes
+# chess notes -*- mode: org -*-
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
