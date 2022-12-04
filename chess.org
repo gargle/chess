@@ -966,7 +966,8 @@ keep working on not hanging your pieces for free.
 
 * skak latex in org mode
 
-** evaluate this first
+** DONE evaluate this first
+CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 (setq org-confirm-babel-evaluate nil)
 (org-babel-do-load-languages 'org-babel-load-languages '((latex . t)))
 
