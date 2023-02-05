@@ -2,6 +2,7 @@
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
 #+STARTUP: overview logdone
 
+* TODO https://lichess.org/analysis/1N6/8/K7/3k4/3p3B/p7/2PP4/8_w_-_-_0_1?color=white#0
 * puzzles
 ** https://lichess.org/training/3La0T
 Block black from reaching rank 1.  As black can take ...xa3 we need to move a3 out of the way first.  1. a4
@@ -972,30 +973,28 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 (org-babel-do-load-languages 'org-babel-load-languages '((latex . t)))
 
 ** a chess position, use c-c c-x c-v to show the image, m-x org-redisplay-inline-images to update
-#+begin_src latex :file /tmp/chess.png :results output silent :headers '("\\usepackage{skak}")
+#+begin_src latex :headers '("\\usepackage{skak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \newgame
   \hidemoves{1. g4 e5 2. f3 Qh4#}
   \showboard
 #+end_src
 
-[[/tmp/chess.png]]
+#+RESULTS:
+[[file:/tmp/babel-GbaJQp/figure-SnExu7.png]]
 
-#+begin_src latex :file /tmp/chess1.png :results output silent :headers '("\\usepackage{skak}")
+# https://stackoverflow.com/questions/8327939/r-org-mode-how-to-avoid-naming-plot-files
+
+#+begin_src latex :headers '("\\usepackage{skak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \newgame
   \hidemoves{1. e4 e5 2. Qh5 Nc6 3. c3 g6 4. Qd1 d6 5. d4 Nf6 6. Qd3 Bd7 7. d5 Nd4 8. cxd4 exd4 9. Qxd4 Qe7
     10. f3 c5 11. dxc6 Bxc6 12. Nh3 Bg7 13. Qd2 O-O 14. b4 Nxe4 15. fxe4 Qxe4+ 16. Be2 Bxa1 17. Na3 a6 18. Nf4 Be5
     19. Nc4 Bxf4 20. Qxf4 Qxf4 21. Bxf4 Bxg2 22. Rg1 Bd5 23. Bxd6 Rfd8 24. Bc7 Rdc8 25. Be5 Bxc4 26. Bf3 Bxa2 }
   \showboard
 #+end_src
-#+begin_src latex :file /tmp/chess2.png :results output silent :headers '("\\usepackage{skak}")
-  \newgame
-  \hidemoves{1. e4 e5 2. Qh5 Nc6 3. c3 g6 4. Qd1 d6 5. d4 Nf6 6. Qd3 Bd7 7. d5 Nd4 8. cxd4 exd4 9. Qxd4 Qe7
-    10. f3 c5 11. dxc6 Bxc6 12. Nh3 Bg7 13. Qd2 O-O 14. b4 Nxe4 15. fxe4 Qxe4+ 16. Be2 Bxa1 17. Na3 a6 18. Nf4 Be5
-    19. Nc4 Bxf4 20. Qxf4 Qxf4 21. Bxf4 Bxg2 22. Rg1 Bd5 23. Bxd6 Rfd8 24. Bc7 Rdc8 25. Be5 Bxc4 26. Bf3 Bxa2 }
-  \hidemoves{27. Bxb7 Rab8 28. Bxc8 Rxc8}
-  \showboard
-#+end_src
-#+begin_src latex :file /tmp/chess3.png :results output silent :headers '("\\usepackage{skak}")
+#+RESULTS:
+[[file:/tmp/babel-GbaJQp/figure-aF6uJJ.png]]
+
+#+begin_src latex :headers '("\\usepackage{skak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \newgame
   \hidemoves{1. e4 e5 2. Qh5 Nc6 3. c3 g6 4. Qd1 d6 5. d4 Nf6 6. Qd3 Bd7 7. d5 Nd4 8. cxd4 exd4 9. Qxd4 Qe7
     10. f3 c5 11. dxc6 Bxc6 12. Nh3 Bg7 13. Qd2 O-O 14. b4 Nxe4 15. fxe4 Qxe4+ 16. Be2 Bxa1 17. Na3 a6 18. Nf4 Be5
@@ -1005,4 +1004,5 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
   \showboard
 #+end_src
 
-[[/tmp/chess1.png]] [[/tmp/chess2.png]] [[/tmp/chess3.png]]
+#+RESULTS:
+[[file:/tmp/babel-GbaJQp/figure-A06Nbl.png]]
