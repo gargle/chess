@@ -175,6 +175,7 @@ Bxf3 is a fork.  Our bisshop attacks both the king at h1 and the queen at d1.
    10. Protect your castled position.
    11. When attacked-Use your Mind.
 
+** https://www.overleaf.com/learn/latex/Chess_notation
 ** pawn chains
    attack a pawn chain at its base!
    black d5, e6, f7 is a pawn chain, d5 is its base
@@ -321,3 +322,23 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 
 #+RESULTS:
 [[file:/tmp/babel-GbaJQp/figure-A06Nbl.png]]
+
+#+name: chess.com_2023-02-26
+#+begin_src latex :headers '("\\usepackage{skak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
+  \newgame
+  \fenboard{b4r1k/2r2Bp1/3N1pPp/2n1pP2/pB5P/Pp4R1/1P1Q3K/1q6 w - - 0 1}
+  \notationoff
+  \showboard
+  \hidemoves{1. Qxh6+ gxh6 2. g7+ Kh7 3. gxf8=N+}
+  \showboard
+  \hidemoves{3. Kh8}
+  \showboard
+  \hidemoves{4. Rg8# }
+  \showboard
+#+end_src
+
+#+RESULTS: chess.com_2023-02-26
+[[file:/tmp/babel-PM7jwE/figure-7rKpWx.png]]
+
+
+
