@@ -242,6 +242,7 @@ keep working on not hanging your pieces for free.
 ** TODO https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
 ** TODO https://chessfox.com/example-of-the-complete-evaluation-process-of-chess-a-chess-position/
 ** TODO https://nextlevelchess.blog/remember/
+** TODO https://www.alexcrompton.com/blog/time-thoughts-chess
 * books
 ** https://z-lib.org/
 ** http://www.pdfdrive.com/chess-books.html
@@ -338,7 +339,23 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 #+end_src
 
 #+RESULTS: chess.com_2023-02-26
-[[file:/tmp/babel-PM7jwE/figure-7rKpWx.png]]
+[[file:/tmp/babel-9iDosL/figure-ujrScR.png]]
 
+# sudo apt-get install texlive-pstricks is needed for chessboard and xskak
+
+#+name: chess.com_2023-03-21
+#+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
+  \newchessgame
+  \def\myfen{8/6b1/b1pnn3/k2p2p1/3P1P1p/q3rN1P/3N2P1/1R2BBK1 w - - 0 1}
+  \newchessgame[setfen=\myfen,moveid=1w]
+  \chessboard
+  \mainline{1. Nc4 Ka4}
+  \chessboard
+  \mainline{2. Nb6#}
+  \chessboard
+#+end_src
+
+#+RESULTS: chess.com_2023-03-21
+[[file:/tmp/babel-9iDosL/figure-h3tE87.png]]
 
 
