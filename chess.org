@@ -1,5 +1,5 @@
 # chess notes -*- mode: org -*-
-#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELED(c)
+#+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELLED(c)
 #+STARTUP: overview logdone
 
 * [[https://www.chess.com/home][chess.com]]
