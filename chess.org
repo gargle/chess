@@ -359,4 +359,14 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 #+RESULTS: chess.com_2023-03-21
 [[file:/tmp/babel-9iDosL/figure-h3tE87.png]]
 
+#+name: lucas_chess_2023-04-04
+#+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
+   \newchessgame
+   \mainline{1.d4 c6 2.e4 e6 3.d5 h6 4.dxe6 Rh7 5.exd7+ Ke7 6.dxc8=Q} \par
+   \chessboard \par
+   \mainline{6...Ke8 7.Qcxd8#} \par
+   \chessboard \par
+#+end_src
 
+#+RESULTS: lucas_chess_2023-04-04
+[[file:/tmp/babel-HsS3v7/figure-pZp2oQ.png]]
