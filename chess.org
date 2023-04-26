@@ -380,7 +380,7 @@ Beginsituatie en 5 mogelijke zetten met die leiden tot schaakmat.
 #+name: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \def\myfen{8/Bk6/8/8/Q6p/7B/6p1/6K1 w - - 0 1}
-  \begin{tabular}[t]{l r l r}
+  \begin{tabular}{l r l r}
   \newchessgame[setfen=\myfen,moveid=1w]
   \textbf{INIT} &
   \chessboard &
@@ -403,5 +403,5 @@ Beginsituatie en 5 mogelijke zetten met die leiden tot schaakmat.
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
-[[file:/tmp/babel-qoTvyg/figure-A1sIds.png]]
+[[file:/tmp/babel-qoTvyg/figure-gVmMgB.png]]
 
