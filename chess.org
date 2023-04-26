@@ -371,7 +371,9 @@ CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 #+RESULTS: lucas_chess_2023-04-04
 [[file:/tmp/babel-HsS3v7/figure-pZp2oQ.png]]
 
-* https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/
+** https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/
+
+Zie ook https://www.yacpdb.org/#135208.
 
 Beginsituatie.
 
@@ -379,35 +381,39 @@ Beginsituatie.
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \newchessgame
   \def\myfen{8/Bk6/8/8/Q6p/7B/6p1/6K1 w - - 0 1}
+  \begin{tabular}[t]{l r l r}
   \newchessgame[setfen=\myfen,moveid=1w]
-  \chessboard
+  \chessboard &
+  \end{tabular}
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-1
-[[file:/tmp/babel-letXwX/figure-9dXGL8.png]]
+[[file:/tmp/babel-qoTvyg/figure-wDmDM1.png]]
 
 5 mogelijke zetten met die leiden tot schaakmat.
 
 #+name: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \def\myfen{8/Bk6/8/8/Q6p/7B/6p1/6K1 w - - 0 1}
+  \begin{tabular}[t]{l r l r}
   \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Ka8 2. Bxg2#}
-  \chessboard
+  \mainline{1. Qd4 Ka8 2. Bxg2#} &
+  \chessboard &
   \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Ka6 2. Qb6#}
-  \chessboard
+  \mainline{1. Qd4 Ka6 2. Qb6#} &
+  \chessboard &
   \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc7 2. Qd7#}
-  \chessboard
+  \mainline{1. Qd4 Kc7 2. Qd7#} &
+  \chessboard &
   \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc7 2. Qb6#}
-  \chessboard
+  \mainline{1. Qd4 Kc7 2. Qb6#} &
+  \chessboard &
   \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc6 2. Qd7#}
-  \chessboard
+  \mainline{1. Qd4 Kc6 2. Qd7#} &
+  \chessboard &
+  \end{tabular}
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
-[[file:/tmp/babel-letXwX/figure-dUsLVa.png]]
+[[file:/tmp/babel-qoTvyg/figure-U9u3a3.png]]
 
