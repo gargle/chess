@@ -384,7 +384,7 @@ Beginsituatie.
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-1
-[[file:/tmp/babel-letXwX/figure-5LqogC.png]]
+[[file:/tmp/babel-letXwX/figure-9dXGL8.png]]
 
 5 mogelijke zetten met die leiden tot schaakmat.
 
@@ -409,5 +409,5 @@ Beginsituatie.
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
-[[file:/tmp/babel-letXwX/figure-jfDiTo.png]]
+[[file:/tmp/babel-letXwX/figure-dUsLVa.png]]
 
