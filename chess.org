@@ -79,6 +79,9 @@
 ** study
 *** [[https://lichess.org/study/Cveq6Mzs][The Complete Encyclopedia of Sicilian]]
 *** STARTED [[https://lichess.org/study/x75NW8ek/YPFn6Nl1][The Basic Catalan by GM Craze]]
+*** TODO https://lichess.org/@/alperkarayaman/blog/connect-your-ordinary-board-to-lichessorg/U7vq7IP5
+Lichess has a function where you can fix a camera to any cheap non electronic chess board.  It will
+detect and input the moves for you.
 * [[https://listudy.org/en][listudy.org]]
 * [[https://www.freechess.org/]]
 * podcasts
