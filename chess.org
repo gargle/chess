@@ -50,6 +50,15 @@
    Rxh2 45. Kb3 Rg2 46. Kc4 h2 47. Kd5 Rg1 48. Rc8+ Kg7 49. Rc7 h1=Q+ 50. Kc5 Qh2 51. Re7 Rg2 52. Kc6 Re2 53. Rxe2
    Qxe2 54. Kb7 f5 55. Kc7 g5 56. Kd7 g4 57. Kd6 f4 58. Kd5 g3 59. Kd6 f3 60. Kc6 f2 61. Kd7 g2 62. Kc7
    g1=Q 63. Kc8 f1=Q 64. Kc7 Qe6 65. Kb7 Qff7+ 66. Kb8 Qga7# 0-1
+*** https://www.chess.com/analysis/game/computer/67613373?tab=review
+1. e4 e5 2. Qh5 Nf6 3. Qxe5+ Qe7 $2 4. Qc3 $9 Qb4 $9 5. Qxb4 Bxb4 6. e5 Ne4 7. a3 $6 Bc5 8. f3 Nf2 9. b4
+   $4 Nxh1 $9 10. bxc5 $1 O-O 11. d4 Ng3 $2 12. Bb5 $9 c6 $4 13. Bd3 $1 d6 14. hxg3 dxe5 15. dxe5
+   Re8 16. g4 $6 Rxe5+ 17. Kf2 Rxc5 18. Be3 Re5 19. Bd4 Rd5 20. c4 $4 Rxd4 21. Nd2 $6 Rxd3 22. Ne4
+   Be6 23. Nc5 Rc3 24. Ne2 Rxc4 25. Re1 $6 Rxc5 26. Nd4 Nd7 27. Nxe6 fxe6 28. Rxe6 Rf8 29. Re7
+   Rc2+ 30. Kf1 a5 31. Rxd7 b5 32. Rb7 b4 33. axb4 axb4 34. Rxb4 Rc1+ 35. Ke2 c5 36. Rb2 c4 37. Kd2
+   Rh1 38. Kc3 Rc1+ 39. Kd4 c3 40. Rb3 c2 41. Kc3 $6 Rc8+ 42. Kb4 Rd1 43. Rc3 c1=Q 44. Rxc1 Rdxc1 45. g5
+   Rb8+ 46. Ka5 Ra1# 0-1
+
 * [[https://lichess.org/][lichess.org]]
 ** game
 *** numbers (a+b)
