@@ -180,6 +180,7 @@ Bxf3 is a fork.  Our bisshop attacks both the king at h1 and the queen at d1.
    11. When attacked-Use your Mind.
 
 ** https://www.overleaf.com/learn/latex/Chess_notation
+** https://www.chesstactics.org/
 ** pawn chains
    attack a pawn chain at its base!
    black d5, e6, f7 is a pawn chain, d5 is its base
@@ -286,6 +287,8 @@ keep working on not hanging your pieces for free.
 **** White Neglects Castling 2, pag. 45, https://lichess.org/9vDvNeIV
 1. Nc7+ Bxc7 2. Rxc7 Qxc7 3. Qxa8+ Ke7 4. Qxh8
 
+* trivia
+** [[http://marquisdegeek.com/code_chessbots][ZX81 1K Chess Bots 2020]]
 * skak latex in org mode
 
 ** DONE evaluate this first
@@ -382,29 +385,47 @@ Beginsituatie en 5 mogelijke zetten met die leiden tot schaakmat.
 
 #+name: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
-  \def\myfen{8/Bk6/8/8/Q6p/7B/6p1/6K1 w - - 0 1}
-  \begin{tabular}{l r l r}
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \textbf{INIT} &
-  \chessboard &
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Ka8 2. Bxg2#} &
-  \chessboard &
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Ka6 2. Qb6#} &
-  \chessboard &
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc7 2. Qd7#} &
-  \chessboard &
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc7 2. Qb6#} &
-  \chessboard &
-  \newchessgame[setfen=\myfen,moveid=1w]
-  \mainline{1. Qd4 Kc6 2. Qd7#} &
-  \chessboard &
-  \end{tabular}
+    \def\myfen{8/Bk6/8/8/Q6p/7B/6p1/6K1 w - - 0 1}
+    \begin{tabular}{l r l r}
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \textbf{INIT} &
+    \chessboard &
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \mainline{1. Qd4 Ka8 2. Bxg2#} &
+    \chessboard &
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \mainline{1. Qd4 Ka6 2. Qb6#} &
+    \chessboard &
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \mainline{1. Qd4 Kc7 2. Qd7#} &
+    \chessboard &
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \mainline{1. Qd4 Kc7 2. Qb6#} &
+    \chessboard &
+    \newchessgame[setfen=\myfen,moveid=1w]
+    \mainline{1. Qd4 Kc6 2. Qd7#} &
+    \chessboard &
+    \end{tabular}
 #+end_src
 
 #+RESULTS: https://www.reddit.com/r/chess/comments/12yyxdx/chess_polgar_white_to_mate_in_2/-2
-[[file:/tmp/babel-qoTvyg/figure-gVmMgB.png]]
+[[file:/tmp/babel-zMcShZ/figure-rYxZQn.png]]
 
+
+#+name: https://www.overleaf.com/learn/latex/Chess_notation
+#+begin_src latex :headers '("\\usepackage{xskak}") :background "white" :foreground "black" :buffer yes :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
+\newgame
+\chessboard[setfen=8/8/8/3Q4/8/8/8/8 w - - 0 0,
+            pgfstyle=border,markfields={d4,d6},
+            color=blue!50,
+            colorbackfield=c5,
+            pgfstyle=color,
+            opacity=0.5,
+            color=red,
+            markfield={d5}]
+#+end_src
+
+See [[https://www.google.com/search?q=org+mode+PostScript+dvipng+warning%3A+No+image+output+from+inclusion+of+raw+PostScript&client=firefox-b-d&ei=iIFKZO6UHMWAhbIPrOmHyAc&ved=0ahUKEwju-JH4ncr-AhVFQEEAHaz0AXkQ4dUDCA4&uact=5&oq=org+mode+PostScript+dvipng+warning%3A+No+image+output+from+inclusion+of+raw+PostScript&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQA0oECEEYAFAAWABgAGgAcAB4AIABAIgBAJIBAJgBAKABAQ&sclient=gws-wiz-serp][google]] for why there are no colours.
+
+#+RESULTS: https://www.overleaf.com/learn/latex/Chess_notation
+[[file:/tmp/babel-ky9JnK/figure-5iuWZH.png]]
