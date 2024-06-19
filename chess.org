@@ -251,12 +251,13 @@ keep working on not hanging your pieces for free.
    9.  O-O       (King side caste is better, but it's not explained)
       *** TO BE CONTINUED ***
 ***    ...  c6   (Slav and Semi-Slav Defenses)
-** TODO [[https://www.reddit.com/r/chess/comments/yto1fa/what_are_the_chess_books_or_online_courses_that/][What are the chess books or online courses that were the most beneficial to your chess progress ?]]
-** TODO https://nextlevelchess.blog/5-costly-amateur-mistakes/
-** TODO https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
-** TODO https://chessfox.com/example-of-the-complete-evaluation-process-of-chess-a-chess-position/
-** TODO https://nextlevelchess.blog/remember/
-** TODO https://www.alexcrompton.com/blog/time-thoughts-chess
+** WAITING [[https://www.reddit.com/r/chess/comments/yto1fa/what_are_the_chess_books_or_online_courses_that/][What are the chess books or online courses that were the most beneficial to your chess progress ?]]
+** WAITING https://nextlevelchess.blog/5-costly-amateur-mistakes/
+** WAITING https://medium.com/skilluped/how-to-become-a-solid-chess-player-in-7-steps-e45d83ab374f
+** WAITING https://chessfox.com/example-of-the-complete-evaluation-process-of-chess-a-chess-position/
+** WAITING https://nextlevelchess.blog/remember/
+** WAITING https://www.alexcrompton.com/blog/time-thoughts-chess
+** STARTED https://www.chessable.com/smithys-opening-fundamentals/course/21302/?utm_source=chess.com&utm_medium=game_review&utm_campaign=21302
 * books
 ** https://z-lib.org/
 ** http://www.pdfdrive.com/chess-books.html
@@ -300,8 +301,9 @@ keep working on not hanging your pieces for free.
 
 * trivia
 ** [[http://marquisdegeek.com/code_chessbots][ZX81 1K Chess Bots 2020]]
+** [[https://www.chess.com/article/view/queens-gambit-netflix][The Queen's Gambit (netflix)]]
+** STARTED [[https://www.chess.com/article/view/queens-gambit-every-chess-position][The Queen's Gambit (netflix): Every Chess Position]]
 * skak latex in org mode
-
 ** DONE evaluate this first
 CLOSED: [2022-12-04 Sun 19:08] because this is in ~/.emacs now
 (setq org-confirm-babel-evaluate nil)
