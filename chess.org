@@ -261,6 +261,8 @@ keep working on not hanging your pieces for free.
 ** https://z-lib.org/
 ** http://www.pdfdrive.com/chess-books.html
 ** The Complete Chess Course - Fred Reinfeld
+** Logical Chess, Move by move, every move explained, Irving Chernev
+*** [[https://www.chessgames.com/perl/chessgame?gid=1141572][Game 1, von Scheve - Teichmann, Berlin 1907]]
 ** Book Two, The Nine Bad Moves, pag. 38
 *** Neglecting Development of Your Pieces, pag. 38
 **** Disastrous Pawn Moves, pag. 38, https://lichess.org/rGLXTaIs
