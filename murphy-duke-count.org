@@ -7,31 +7,31 @@
 #+name: game
 #+begin_src latex :headers '("\\usepackage{skak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \begin{tabular}{r r r}
-  \newgame 
- \mainline{1. e4 e5} \showboard &
- \mainline{2. Nf3 d6} \showboard &
- \mainline{3. d4 Bg4} \showboard & \\
- \\
- \mainline{4. dxe5 Bxf3} \showboard &
- \mainline{5. Qxf3 dxe5} \showboard &
- \mainline{6. Bc4 Nf6} \showboard & \\
- \\
- \mainline{7. Qb3 Qe7} \showboard &
- \mainline{8. Nc3 c6} \showboard &
- \mainline{9. Bg5 b5} \showboard & \\
- \\
- \mainline{10. Nxb5 cxb5} \showboard &
- \mainline{11. Bxb5+ Nbd7} \showboard &
- \mainline{12. O-O-O Rd8} \showboard & \\
- \\
- \mainline{13. Rxd7 Rxd7} \showboard &
- \mainline{14. Rd1 Qe6} \showboard &
- \mainline{15. Bxd7+ Nxd7} \showboard & \\
- \\
- \mainline{16. Qb8+ Nxb8} \showboard &
- \mainline{17. Rd8# 1-0} \showboard &
+    \newgame 
+    \mainline{1. e4 e5} \showboard &
+    \mainline{2. Nf3 d6} \showboard &
+    \mainline{3. d4 Bg4} \showboard & \\
+    \\
+    \mainline{4. dxe5 Bxf3} \showboard &
+    \mainline{5. Qxf3 dxe5} \showboard &
+    \mainline{6. Bc4 Nf6} \showboard & \\
+    \\
+    \mainline{7. Qb3 Qe7} \showboard &
+    \mainline{8. Nc3 c6} \showboard &
+    \mainline{9. Bg5 b5} \showboard & \\
+    \\
+    \mainline{10. Nxb5 cxb5} \showboard &
+    \mainline{11. Bxb5+ Nbd7} \showboard &
+    \mainline{12. O-O-O Rd8} \showboard & \\
+    \\
+    \mainline{13. Rxd7 Rxd7} \showboard &
+    \mainline{14. Rd1 Qe6} \showboard &
+    \mainline{15. Bxd7+ Nxd7} \showboard & \\
+    \\
+    \mainline{16. Qb8+ Nxb8} \showboard &
+    \mainline{17. Rd8# 1-0} \showboard &
   \end{tabular}
 #+end_src
 
 #+RESULTS: game
-[[file:/tmp/babel-8Wx6Gv/figure-3v1xi2.png]]
+[[file:/tmp/babel-8Wx6Gv/figure-ajOFP4.png]]
