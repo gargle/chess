@@ -5,7 +5,10 @@
 
 # Use c-c c-x c-v to show the image, m-x org-redisplay-inline-images to update
 
-#+name: game
+#+RESULTS: game
+[[file:/tmp/babel-8Wx6Gv/figure-c6RhWc.png]]
+
+#+name: murphy-duke-count
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \begin{tabular}{r r r}
     \newchessgame
@@ -28,12 +31,3 @@
     \mainline{17. Rd8# 1-0} \chessboard &
   \end{tabular}
 #+end_src
-
-#+RESULTS: game-1
-[[file:/tmp/babel-8Wx6Gv/figure-BPCWP0.png]]
-
-#+RESULTS: game-2
-[[file:/tmp/babel-8Wx6Gv/figure-q281bl.png]]
-
-#+RESULTS: game
-[[file:/tmp/babel-8Wx6Gv/figure-BlyxM8.png]]
