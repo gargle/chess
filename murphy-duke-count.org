@@ -1,32 +1,39 @@
 # murphy-duke-count -*- mode: org -*-
 #+TODO: TODO(t) STARTED(s) WAITING(w) | DONE(d) CANCELLED(c)
 #+STARTUP: overview logdone
+#+OPTIONS: toc:nil
 
 # Use c-c c-x c-v to show the image, m-x org-redisplay-inline-images to update
 
 #+name: game
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
-   \begin{tabular}{r r r}
-     \newchessgame
-     \mainline{1. e4 e5} \chessboard &
-     \mainline{2. Nf3 d6} \chessboard &
-     \mainline{3. d4 Bg4} \chessboard & \\
-     \mainline{4. dxe5 Bxf3} \chessboard &
-     \mainline{5. Qxf3 dxe5} \chessboard &
-     \mainline{6. Bc4 Nf6} \chessboard & \\
-     \mainline{7. Qb3 Qe7} \chessboard &
-     \mainline{8. Nc3 c6} \chessboard &
-     \mainline{9. Bg5 b5} \chessboard & \\
-     \mainline{10. Nxb5 cxb5} \chessboard &
-     \mainline{11. Bxb5+ Nbd7} \chessboard &
-     \mainline{12. O-O-O Rd8} \chessboard & \\
-     \mainline{13. Rxd7 Rxd7} \chessboard &
-     \mainline{14. Rd1 Qe6} \chessboard &
-     \mainline{15. Bxd7+ Nxd7} \chessboard & \\
-     \mainline{16. Qb8+ Nxb8} \chessboard &
-     \mainline{17. Rd8# 1-0} \chessboard &
-   \end{tabular}
+  \begin{tabular}{r r r}
+    \newchessgame
+    \mainline{1. e4 e5} \chessboard &
+    \mainline{2. Nf3 d6} \chessboard &
+    \mainline{3. d4 Bg4} \chessboard & \\
+    \mainline{4. dxe5 Bxf3} \chessboard &
+    \mainline{5. Qxf3 dxe5} \chessboard &
+    \mainline{6. Bc4 Nf6} \chessboard & \\
+    \mainline{7. Qb3 Qe7} \chessboard &
+    \mainline{8. Nc3 c6} \chessboard &
+    \mainline{9. Bg5 b5} \chessboard & \\
+    \mainline{10. Nxb5 cxb5} \chessboard &
+    \mainline{11. Bxb5+ Nbd7} \chessboard &
+    \mainline{12. O-O-O Rd8} \chessboard & \\
+    \mainline{13. Rxd7 Rxd7} \chessboard &
+    \mainline{14. Rd1 Qe6} \chessboard &
+    \mainline{15. Bxd7+ Nxd7} \chessboard & \\
+    \mainline{16. Qb8+ Nxb8} \chessboard &
+    \mainline{17. Rd8# 1-0} \chessboard &
+  \end{tabular}
 #+end_src
 
+#+RESULTS: game-1
+[[file:/tmp/babel-8Wx6Gv/figure-BPCWP0.png]]
+
+#+RESULTS: game-2
+[[file:/tmp/babel-8Wx6Gv/figure-q281bl.png]]
+
 #+RESULTS: game
-[[file:/tmp/babel-8Wx6Gv/figure-ltflLZ.png]]
+[[file:/tmp/babel-8Wx6Gv/figure-BlyxM8.png]]
