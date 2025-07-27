@@ -5,9 +5,6 @@
 
 # Use c-c c-x c-v to show the image, m-x org-redisplay-inline-images to update
 
-#+RESULTS: game
-[[file:/tmp/babel-8Wx6Gv/figure-c6RhWc.png]]
-
 #+name: murphy-duke-count
 #+begin_src latex :headers '("\\usepackage{xskak}") :results file graphics :exports results :file (org-babel-temp-file "./figure-" ".png")
   \begin{tabular}{r r r}
@@ -31,3 +28,6 @@
     \mainline{17. Rd8# 1-0} \chessboard &
   \end{tabular}
 #+end_src
+
+#+RESULTS: murphy-duke-count
+[[file:/tmp/babel-rGosO2/figure-xRpHIG.png]]
